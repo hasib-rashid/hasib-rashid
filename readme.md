@@ -19,11 +19,11 @@ Discord: **TheMegaWarrior#3647**, Email Me: **cadethasib3091@gmail.com**
 
 
 ## My Stats
-![TheMegawarriors's github stats](https://github-readme-stats.vercel.app/api?username=Cadet-Hasib&show_icons=true&theme=radical)
+![TheMegawarriors's github stats](https://github-readme-stats.vercel.app/api?username=hasib-rashid&show_icons=true&theme=radical)
 <br>
 <h2>One Of my Most Used Programming Languages are</h2>
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cadet-Hasib&hide=ruby,shell)](https://github.com/SKULLXL/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib-rashid&hide=ruby,shell)](https://github.com/SKULLXL/github-readme-stats) 
 
