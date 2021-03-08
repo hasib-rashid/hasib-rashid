@@ -1,6 +1,7 @@
 # Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to my GitHub Profile
 
-# I am **TheMegaWarrriors / Cadet-Hasib**
+# I am **Hasib Al Rashid**
+
 ### I am a Front End Developer But I am 13 years old. I am a student of the 7th Grade in *Bangladesh* I basically do front end developing and front end web designing. After designing and combining in the code then i open it and then release it to the internet or the World Wide Web. I am a student in Mirzapur Cadet College in Bangladesh also. And I am 13 years old. I am also a part of the online Coding Projects and my Own Personal Projects. I am in different Media's Working with some groups for free so that I can practice and Enhance My Knowledge to do Coding.
   
   
@@ -25,5 +26,5 @@ Discord: **TheMegaWarrior#3647**, Email Me: **cadethasib3091@gmail.com**
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib-rashid&hide=ruby,shell)](https://github.com/SKULLXL/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasib-rashid&hide=ruby,shell)](https://github.com/hasib-rashid/github-readme-stats) 
 
