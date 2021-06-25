@@ -12,7 +12,6 @@
 - 🤼 I am about "All lives matter :)"
 
 <h2 align="center">Current Knowledge</h2>
-<hr>
 
 <center><h3>Currently Doing</center>
 
