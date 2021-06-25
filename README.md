@@ -11,3 +11,18 @@
 - 🐳 Have a huge will of learning docker but I always forget ;(
 - 🧪 Testing Code sucks for me. It always fails :(
 - 🤼 I am about "All lives matter :)"
+
+<h2 align="center">Current Knowledge</h2>
+<hr>
+
+<center><h3>Currently Doing</center>
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=React" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-SASS-black?style=flat-square&amp;logo=SASS" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-DiscordJS-black?style=flat-square&amp;logo=Discord" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&amp;logo=Javascript" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
