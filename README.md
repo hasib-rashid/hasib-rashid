@@ -51,3 +51,8 @@
      </tr>
    </table>
 </p>
+
+<h3>Connect with me in</h3>
+<a href="https://github.com/hasib-rashid">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
