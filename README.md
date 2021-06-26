@@ -53,6 +53,7 @@
 </p>
 
 <h2 align="center">Connect with me in</h2>
+<div align="center">
 <a href="https://github.com/hasib-rashid">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
@@ -65,3 +66,4 @@
 </a><a href="https://github.com/hasib-rashid">
   <img src="https://img.shields.io/badge/-Stack Overflow-black?style=flat-square&amp;logo=stack-overflow" alt="Stack Overflow">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
+</div>
