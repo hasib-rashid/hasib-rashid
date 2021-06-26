@@ -37,3 +37,17 @@
 <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&amp;logo=arduino" alt="Arduino">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<h2 align="center">My Contributions</h2>
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=hasib-rashid&show_icons=true&theme=tokyonight"> </td>
+       <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib-rashid&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
