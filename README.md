@@ -14,8 +14,7 @@
 <h2 align="center">Current Knowledge</h2>
 
 <h3>Currently Doing
-
-
+<br>
 <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=React" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-SASS-black?style=flat-square&amp;logo=SASS" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
