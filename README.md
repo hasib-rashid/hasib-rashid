@@ -63,5 +63,5 @@
 </a><a href="https://open.spotify.com/user/2gm5rrycgg6pu4rdxq3tcc9lx">
   <img src="https://img.shields.io/badge/-Spotify-black?style=flat-square&amp;logo=spotify" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a><a href="https://github.com/hasib-rashid">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Stack Oerflow-black?style=flat-square&amp;logo=stack-overflow" alt="Stack Overflow">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
