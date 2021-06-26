@@ -25,9 +25,11 @@
 <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h3>Database</h3>
+<div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&amp;logo=postgresql" alt="Postgres">&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 <h3>Learning</h3>
 <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
