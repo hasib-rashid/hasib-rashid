@@ -23,7 +23,8 @@
 <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&amp;logo=Javascript" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
-</div><br>
+</div>
+<br>
 
 <h3>Database</h3>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
