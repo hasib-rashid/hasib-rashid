@@ -60,8 +60,8 @@
   <img src="https://img.shields.io/badge/-Website-black?style=flat-square&amp;logo=circle" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a><a href="https://dev.to/hasibrashid">
   <img src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&amp;logo=dev.to" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
-</a><a href="https://github.com/hasib-rashid">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+</a><a href="https://open.spotify.com/user/2gm5rrycgg6pu4rdxq3tcc9lx">
+  <img src="https://img.shields.io/badge/-Spotify-black?style=flat-square&amp;logo=spotify" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a><a href="https://github.com/hasib-rashid">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
