@@ -52,7 +52,7 @@
    </table>
 </p>
 
-<h2>Connect with me in</h2>
+<h2 align="center">Connect with me in</h2>
 <a href="https://github.com/hasib-rashid">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
