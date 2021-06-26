@@ -56,3 +56,12 @@
 <a href="https://github.com/hasib-rashid">
   <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
+<a href="https://hasibrashid.tk">
+  <img src="https://img.shields.io/badge/-Website-black?style=flat-square&amp;logo=circle" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+</a><a href="https://github.com/hasib-rashid">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+</a><a href="https://github.com/hasib-rashid">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+</a><a href="https://github.com/hasib-rashid">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
