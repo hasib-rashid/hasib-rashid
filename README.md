@@ -13,7 +13,7 @@
 
 <h2 align="center">Current Knowledge</h2>
 
-<center><h3>Currently Doing</center>
+<h3>Currently Doing
 
 
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -23,4 +23,11 @@
 <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Javascript-black?style=flat-square&amp;logo=Javascript" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</div><br>
+
+
+<h3>Database</h3>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&amp;logo=postgresql" alt="Postgres">&nbsp;&nbsp;&nbsp;&nbsp;
+
