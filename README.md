@@ -16,7 +16,7 @@
 <h3>Currently Doing
 <br>
 <br>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div>
 <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=React" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-SASS-black?style=flat-square&amp;logo=SASS" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-DiscordJS-black?style=flat-square&amp;logo=Discord" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,13 +25,13 @@
 <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&amp;logo=nodedotjs" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h3>Database</h3>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Postgres-black?style=flat-square&amp;logo=postgresql" alt="Postgres">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h3>Learning</h3>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div>
 <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&amp;logo=arduino" alt="Arduino">&nbsp;&nbsp;&nbsp;&nbsp;
