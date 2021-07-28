@@ -77,7 +77,5 @@
 <br>
 <h2>Random Programming Quote</h2>
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The best way to predict the future is to invent it. </i> </h3>
-<h4> - <b>Alan Kay</b> </h4> </blockquote>
-<br>
+
 <!--PROGRAMMING-QUOTE-BOT:end-->
