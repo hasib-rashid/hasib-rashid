@@ -72,3 +72,12 @@
 <h2>A Graphical Overview of my Activity</h2>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=hasib-rashid&theme=github"></img>
+
+<br>
+<br>
+<h2>Random Programming Quote</h2>
+<!--PROGRAMMING-QUOTE-BOT:start-->
+<blockquote> <h3> <i> The best way to predict the future is to invent it. </i> </h3>
+<h4> - <b>Alan Kay</b> </h4> </blockquote>
+<br>
+<!--PROGRAMMING-QUOTE-BOT:end-->
