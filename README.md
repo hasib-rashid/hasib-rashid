@@ -67,3 +67,8 @@
   <img src="https://img.shields.io/badge/-Stack Overflow-black?style=flat-square&amp;logo=stack-overflow" alt="Stack Overflow">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 </div>
+
+<br>
+<h2>A Graphical Overview of my Activity</h2>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=hasib-rashid&theme=github"></img>
