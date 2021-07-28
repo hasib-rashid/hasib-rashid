@@ -2,13 +2,13 @@ name: Random Programming Quote
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   putRandomQuote:
     runs-on: ubuntu-latest
-    name: Put a random quote
+    name: Put a random random programming quote in README
 
     steps:
       - uses: actions/checkout@v2
@@ -19,6 +19,8 @@ jobs:
       - name: Update the README
         uses: SpiderMath/Random-Quote-Action@main
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          QUOTE_FONT_SIZE: 5
+          QUOTE_FONT_SIZE: 6
+          GH_USERNAME: 'Readme Programmer'
+          	COMMIT_MESSAGE: '💻 Updated the README with a new Programming Quote'
