@@ -8,7 +8,7 @@ on:
 jobs:
   putRandomQuote:
     runs-on: ubuntu-latest
-    name: Put a random quote
+    name: Put a random random programming quote in README
 
     steps:
       - uses: actions/checkout@v2
@@ -21,4 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
-          QUOTE_FONT_SIZE: 5
+          QUOTE_FONT_SIZE: 6
+          GH_USERNAME: 'Readme Programmer'
+          	COMMIT_MESSAGE: '💻 Updated the README with a new Programming Quote'
