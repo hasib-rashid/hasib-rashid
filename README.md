@@ -77,12 +77,14 @@
 <br>
 <h2>Random Programming Quote</h2>
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
 <blockquote> <h3> <i> An infinite number of monkeys typing into GNU Emacs would never make a good program. </i> </h3>
 <h3> - <b>Linus Torvalds</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
+
+<h2>Recent Activity on Github</h2>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
