@@ -76,6 +76,11 @@
 <br>
 <br>
 <h2>Random Programming Quote</h2>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--PROGRAMMING-QUOTE-BOT:start-->
 
 <!--PROGRAMMING-QUOTE-BOT:end-->
