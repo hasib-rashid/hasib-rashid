@@ -19,7 +19,7 @@ jobs:
       - name: Update the README
         uses: SpiderMath/Random-Quote-Action@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           QUOTE_FONT_SIZE: 6
           GH_USERNAME: 'Readme Programmer'
