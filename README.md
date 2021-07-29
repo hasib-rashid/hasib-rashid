@@ -84,7 +84,8 @@
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
-<h2>Recent Activity on Github</h2>
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
