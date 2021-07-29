@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. </i> </h3>
-<h3> - <b>Maurice Wilkes</b> </h3> </blockquote>
+<blockquote> <h3> <i> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves. </i> </h3>
+<h3> - <b>Ada Lovelace</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
