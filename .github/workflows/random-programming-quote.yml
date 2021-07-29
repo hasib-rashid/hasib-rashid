@@ -2,7 +2,7 @@ name: Random Programming Quote
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
-          QUOTE_FONT_SIZE: 6
+          QUOTE_FONT_SIZE: 3
           GH_USERNAME: 'Readme Programmer'
-          	COMMIT_MESSAGE: '💻 Updated the README with a new Programming Quote'
+          COMMIT_MESSAGE: '💻 Updated the README with a new Programming Quote'
