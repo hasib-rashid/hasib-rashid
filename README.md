@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> It's not so important what you work on, so long as you're not wasting your time. </i> </h3>
+<blockquote> <h3> <i> In programming the hard part isn’t solving problems, but deciding what problems to solve. </i> </h3>
 <h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
