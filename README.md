@@ -87,14 +87,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/SpiderMath/CodeFictionist/issues/1) in [SpiderMath/CodeFictionist](https://github.com/SpiderMath/CodeFictionist)
-2. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+1. 🗣 Commented on [#1](https://github.com/SpiderMath/CodeFictionist/issues/1) in [SpiderMath/CodeFictionist](https://github.com/SpiderMath/CodeFictionist)
+2. ❗️ Opened issue [#1](https://github.com/SpiderMath/CodeFictionist/issues/1) in [SpiderMath/CodeFictionist](https://github.com/SpiderMath/CodeFictionist)
 3. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-4. ❗️ Opened issue [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-5. ❗️ Closed issue [#1](https://github.com/hasib-rashid/hasib-rashid/issues/1) in [hasib-rashid/hasib-rashid](https://github.com/hasib-rashid/hasib-rashid)
-6. 🗣 Commented on [#1](https://github.com/hasib-rashid/hasib-rashid/issues/1) in [hasib-rashid/hasib-rashid](https://github.com/hasib-rashid/hasib-rashid)
-7. ❗️ Opened issue [#1](https://github.com/hasib-rashid/hasib-rashid/issues/1) in [hasib-rashid/hasib-rashid](https://github.com/hasib-rashid/hasib-rashid)
-8. ❗️ Closed issue [#27](https://github.com/Nuggies-bot/nuggies-npm/issues/27) in [Nuggies-bot/nuggies-npm](https://github.com/Nuggies-bot/nuggies-npm)
-9. 🗣 Commented on [#27](https://github.com/Nuggies-bot/nuggies-npm/issues/27) in [Nuggies-bot/nuggies-npm](https://github.com/Nuggies-bot/nuggies-npm)
-10. ❗️ Opened issue [#27](https://github.com/Nuggies-bot/nuggies-npm/issues/27) in [Nuggies-bot/nuggies-npm](https://github.com/Nuggies-bot/nuggies-npm)
+4. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+5. ❗️ Opened issue [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+6. ❗️ Closed issue [#1](https://github.com/hasib-rashid/hasib-rashid/issues/1) in [hasib-rashid/hasib-rashid](https://github.com/hasib-rashid/hasib-rashid)
+7. 🗣 Commented on [#1](https://github.com/hasib-rashid/hasib-rashid/issues/1) in [hasib-rashid/hasib-rashid](https://github.com/hasib-rashid/hasib-rashid)
+8. ❗️ Opened issue [#1](https://github.com/hasib-rashid/hasib-rashid/issues/1) in [hasib-rashid/hasib-rashid](https://github.com/hasib-rashid/hasib-rashid)
+9. ❗️ Closed issue [#27](https://github.com/Nuggies-bot/nuggies-npm/issues/27) in [Nuggies-bot/nuggies-npm](https://github.com/Nuggies-bot/nuggies-npm)
+10. 🗣 Commented on [#27](https://github.com/Nuggies-bot/nuggies-npm/issues/27) in [Nuggies-bot/nuggies-npm](https://github.com/Nuggies-bot/nuggies-npm)
 <!--END_SECTION:activity-->
