@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A clever person solves a problem. A wise person avoids it. </i> </h3>
-<h3> - <b>Albert Einstein</b> </h3> </blockquote>
+<blockquote> <h3> <i> Whenever logical processes of thought are employed, there is an opportunity for the machine. </i> </h3>
+<h3> - <b>Vannevar Bush</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
