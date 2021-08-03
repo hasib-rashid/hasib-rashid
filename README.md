@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> There's only one trick in software, and that is using a piece of software that's already been written. </i> </h3>
-<h3> - <b>Bill Gates</b> </h3> </blockquote>
+<blockquote> <h3> <i> The more varieties of different kinds of notations are still useful — don’t only read the people who code like you. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
