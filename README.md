@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are. </i> </h3>
-<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
+<blockquote> <h3> <i> LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
