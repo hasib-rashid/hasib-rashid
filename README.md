@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> There is never enough time to do it right, but there is always enough time to fix it or to do it over. </i> </h3>
-<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
+<blockquote> <h3> <i> I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully. </i> </h3>
+<h3> - <b>David Parnas</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
