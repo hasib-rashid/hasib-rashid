@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman. </i> </h3>
+<blockquote> <h3> <i> Simplicity does not precede complexity, but follows it. </i> </h3>
 <h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
