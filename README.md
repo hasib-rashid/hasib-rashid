@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible. </i> </h3>
-<h3> - <b>Danny Hillis</b> </h3> </blockquote>
+<blockquote> <h3> <i> Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second. </i> </h3>
+<h3> - <b>Maurice Wilkes</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
