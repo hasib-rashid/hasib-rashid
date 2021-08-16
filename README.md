@@ -87,14 +87,14 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-2. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+1. 🎉 Merged PR [#28](https://github.com/hasib-rashid/Falcon/pull/28) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+2. 💪 Opened PR [#28](https://github.com/hasib-rashid/Falcon/pull/28) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
 3. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-4. ❗️ Opened issue [#2](https://github.com/Milo123459/vext/issues/2) in [Milo123459/vext](https://github.com/Milo123459/vext)
-5. 🗣 Commented on [#6](https://github.com/sell/discord-tutorial-bot/issues/6) in [sell/discord-tutorial-bot](https://github.com/sell/discord-tutorial-bot)
-6. 🗣 Commented on [#1](https://github.com/SpiderMath/CodeFictionist/issues/1) in [SpiderMath/CodeFictionist](https://github.com/SpiderMath/CodeFictionist)
-7. ❗️ Opened issue [#1](https://github.com/SpiderMath/CodeFictionist/issues/1) in [SpiderMath/CodeFictionist](https://github.com/SpiderMath/CodeFictionist)
-8. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-9. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-10. ❗️ Opened issue [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+4. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+5. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+6. ❗️ Opened issue [#2](https://github.com/Milo123459/vext/issues/2) in [Milo123459/vext](https://github.com/Milo123459/vext)
+7. 🗣 Commented on [#6](https://github.com/sell/discord-tutorial-bot/issues/6) in [sell/discord-tutorial-bot](https://github.com/sell/discord-tutorial-bot)
+8. 🗣 Commented on [#1](https://github.com/SpiderMath/CodeFictionist/issues/1) in [SpiderMath/CodeFictionist](https://github.com/SpiderMath/CodeFictionist)
+9. ❗️ Opened issue [#1](https://github.com/SpiderMath/CodeFictionist/issues/1) in [SpiderMath/CodeFictionist](https://github.com/SpiderMath/CodeFictionist)
+10. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
