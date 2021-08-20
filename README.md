@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you think it's simple, then you have misunderstood the problem. </i> </h3>
-<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
+<blockquote> <h3> <i> The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
