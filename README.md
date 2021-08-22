@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you think your users are idiots, only idiots will use it. </i> </h3>
+<blockquote> <h3> <i> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. </i> </h3>
 <h3> - <b>Linus Torvalds</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
