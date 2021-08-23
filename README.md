@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web. </i> </h3>
-<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
+<blockquote> <h3> <i> The most important single aspect of software development is to be clear about what you are trying to build. </i> </h3>
+<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
