@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Every time you improve process, work becomes harder. </i> </h3>
-<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
+<blockquote> <h3> <i> There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence. </i> </h3>
+<h3> - <b>Jeremy S. Anderson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
