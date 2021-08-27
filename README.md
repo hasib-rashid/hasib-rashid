@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. </i> </h3>
-<h3> - <b>Rick Osborne</b> </h3> </blockquote>
+<blockquote> <h3> <i> The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right. </i> </h3>
+<h3> - <b>Michael A. Jackson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
