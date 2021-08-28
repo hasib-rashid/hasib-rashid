@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Science is what we understand well enough to explain to a computer. Art is everything else we do. </i> </h3>
-<h3> - <b>Donald Knuth</b> </h3> </blockquote>
+<blockquote> <h3> <i> One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
