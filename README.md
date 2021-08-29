@@ -87,16 +87,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-2. 💪 Opened PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-3. 🎉 Merged PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-4. 💪 Opened PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-5. ❌ Closed PR [#36](https://github.com/hasib-rashid/Falcon/pull/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-6. 🗣 Commented on [#36](https://github.com/hasib-rashid/Falcon/issues/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-7. ❌ Reopened PR [#36](https://github.com/hasib-rashid/Falcon/pull/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+1. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
+2. ❗️ Opened issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
+3. 🎉 Merged PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+4. 💪 Opened PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+5. 🎉 Merged PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+6. 💪 Opened PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+7. ❌ Closed PR [#36](https://github.com/hasib-rashid/Falcon/pull/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
 8. 🗣 Commented on [#36](https://github.com/hasib-rashid/Falcon/issues/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-9. ❌ Closed PR [#36](https://github.com/hasib-rashid/Falcon/pull/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-10. ❌ Closed PR [#37](https://github.com/hasib-rashid/Falcon/pull/37) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+9. ❌ Reopened PR [#36](https://github.com/hasib-rashid/Falcon/pull/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+10. 🗣 Commented on [#36](https://github.com/hasib-rashid/Falcon/issues/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
 <!--END_SECTION:activity-->
 
 <!-- Please gimme peace bro -->
