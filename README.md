@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The entire history of software engineering is that of the rise in levels of abstraction. </i> </h3>
-<h3> - <b>Grady Booch</b> </h3> </blockquote>
+<blockquote> <h3> <i> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved. </i> </h3>
+<h3> - <b>Mark Gibbs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
