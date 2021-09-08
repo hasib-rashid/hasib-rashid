@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The act of describing a program in unambiguous detail and the act of programming are one and the same. </i> </h3>
-<h3> - <b>Kevlin Henney</b> </h3> </blockquote>
+<blockquote> <h3> <i> Software engineering is the part of computer science which is too difficult for the computer scientist. </i> </h3>
+<h3> - <b>Friedrich Bauer</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
