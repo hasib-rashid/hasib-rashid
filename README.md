@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. </i> </h3>
-<h3> - <b>Brian Kernighan</b> </h3> </blockquote>
+<blockquote> <h3> <i> If debugging is the process of removing software bugs, then programming must be the process of putting them in. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
