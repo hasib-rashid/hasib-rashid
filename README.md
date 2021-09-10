@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When in doubt, leave it out. </i> </h3>
-<h3> - <b>Joshua Bloch</b> </h3> </blockquote>
+<blockquote> <h3> <i> The proper use of comments is to compensate for our failure to express ourself in code. </i> </h3>
+<h3> - <b>Robert C. Martin</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
