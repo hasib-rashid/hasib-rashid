@@ -87,16 +87,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-2. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-3. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-4. ❗️ Opened issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-5. 🎉 Merged PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-6. 💪 Opened PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-7. 🎉 Merged PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-8. 💪 Opened PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-9. ❌ Closed PR [#36](https://github.com/hasib-rashid/Falcon/pull/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-10. 🗣 Commented on [#36](https://github.com/hasib-rashid/Falcon/issues/36) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+1. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+2. ❌ Closed PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+3. ❗️ Closed issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
+4. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
+5. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
+6. ❗️ Opened issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
+7. 🎉 Merged PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+8. 💪 Opened PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+9. 🎉 Merged PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+10. 💪 Opened PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
 <!--END_SECTION:activity-->
 
 <!-- Please gimme peace bro -->
