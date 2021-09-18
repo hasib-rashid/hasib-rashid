@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer. </i> </h3>
-<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
+<blockquote> <h3> <i> Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server. </i> </h3>
+<h3> - <b>Roy Fielding</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
