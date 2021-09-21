@@ -88,16 +88,16 @@ computer getting it right is pretty small. </i> </h3>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-2. ❌ Closed PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-3. ❗️ Closed issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-4. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-5. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-6. ❗️ Opened issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-7. 🎉 Merged PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-8. 💪 Opened PR [#45](https://github.com/hasib-rashid/Falcon/pull/45) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-9. 🎉 Merged PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-10. 💪 Opened PR [#44](https://github.com/hasib-rashid/Falcon/pull/44) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+1. ❌ Closed PR [#1](https://github.com/hasib-rashid/falconCache/pull/1) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
+2. ❌ Closed PR [#4](https://github.com/hasib-rashid/falconCache/pull/4) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
+3. ❌ Closed PR [#6](https://github.com/hasib-rashid/falconCache/pull/6) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
+4. ❌ Closed PR [#5](https://github.com/hasib-rashid/falconCache/pull/5) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
+5. ❌ Closed PR [#2](https://github.com/hasib-rashid/falconCache/pull/2) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
+6. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+7. ❌ Closed PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+8. ❗️ Closed issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
+9. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
+10. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
 <!--END_SECTION:activity-->
 
 <!-- Please gimme peace bro -->
