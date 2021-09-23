@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve. </i> </h3>
-<h3> - <b>René Descartes</b> </h3> </blockquote>
+<blockquote> <h3> <i> Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. </i> </h3>
+<h3> - <b>Eric S. Raymond</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
