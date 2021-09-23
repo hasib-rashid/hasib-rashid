@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I don't comment on the code itself because I feel that properly written code is very much self-documented. </i> </h3>
-<h3> - <b>Gary Kildall</b> </h3> </blockquote>
+<blockquote> <h3> <i> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. </i> </h3>
+<h3> - <b>Brian Kernighan</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
