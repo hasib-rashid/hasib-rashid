@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode. </i> </h3>
-<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
+<blockquote> <h3> <i> I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
@@ -97,6 +97,9 @@
 8. ❌ Closed PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
 9. ❗️ Closed issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
 10. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-<!--END_SECTION:activity-->
+<!-- END_SECTION:activity -->
 
-<!-- Please gimme peace bro -->
+### 📚 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
