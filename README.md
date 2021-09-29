@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time. </i> </h3>
-<h3> - <b>L. Peter Deutsch</b> </h3> </blockquote>
+<blockquote> <h3> <i> The most important single aspect of software development is to be clear about what you are trying to build. </i> </h3>
+<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
