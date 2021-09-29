@@ -79,8 +79,9 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-) </i> </h3>
-<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small. </i> </h3>
+<h3> - <b>Bob Frankston</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
