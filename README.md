@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine. </i> </h3>
-<h3> - <b>Alan Turing</b> </h3> </blockquote>
+<blockquote> <h3> <i> One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
