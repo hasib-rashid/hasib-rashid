@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> All too many of our software systems are, architecturally, little more than shantytowns. </i> </h3>
+<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
