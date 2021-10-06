@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> We build our computer systems the way we build our cities: over time, without a plan, on top of ruins. </i> </h3>
-<h3> - <b>Ellen Ullman</b> </h3> </blockquote>
+<blockquote> <h3> <i> To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
