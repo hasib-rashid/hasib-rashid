@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality. </i> </h3>
-<h3> - <b>Donald Knuth</b> </h3> </blockquote>
+<blockquote> <h3> <i> Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose. </i> </h3>
+<h3> - <b>Danny Hillis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
