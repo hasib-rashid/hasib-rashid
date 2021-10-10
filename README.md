@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow. </i> </h3>
+<blockquote> <h3> <i> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes. </i> </h3>
 <h3> - <b>Richard Hamming</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
