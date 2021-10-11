@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it. </i> </h3>
-<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
+<blockquote> <h3> <i> I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them. </i> </h3>
+<h3> - <b>Richard Hamming</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
