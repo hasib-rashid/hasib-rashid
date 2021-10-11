@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> People should be able to speak and breathe programs just like they talk now. </i> </h3>
-<h3> - <b>Jaron Lanier</b> </h3> </blockquote>
+<blockquote> <h3> <i> You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. </i> </h3>
+<h3> - <b>John Romero</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
