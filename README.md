@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose. </i> </h3>
-<h3> - <b>Martin Fowler</b> </h3> </blockquote>
+<blockquote> <h3> <i> We build our computer systems the way we build our cities: over time, without a plan, on top of ruins. </i> </h3>
+<h3> - <b>Ellen Ullman</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
