@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Even in the games of children there are things to interest the greatest mathematician. </i> </h3>
-<h3> - <b>Gottfried Wilhelm Leibniz</b> </h3> </blockquote>
+<blockquote> <h3> <i> The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. </i> </h3>
+<h3> - <b>Seymour Cray</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
