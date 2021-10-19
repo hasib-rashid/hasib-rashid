@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Any sufficiently advanced technology is indistinguishable from magic. </i> </h3>
-<h3> - <b>Arthur C. Clarke</b> </h3> </blockquote>
+<blockquote> <h3> <i> Unix is simple. It just takes a genius to understand its simplicity. </i> </h3>
+<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
