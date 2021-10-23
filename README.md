@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Whenever logical processes of thought are employed, there is an opportunity for the machine. </i> </h3>
-<h3> - <b>Vannevar Bush</b> </h3> </blockquote>
+<blockquote> <h3> <i> When I invented the web, I didn't have to ask anyone's permission. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
