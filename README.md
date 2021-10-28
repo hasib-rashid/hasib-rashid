@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. </i> </h3>
+<blockquote> <h3> <i> Your most unhappy customers are your greatest source of learning. </i> </h3>
 <h3> - <b>Bill Gates</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
