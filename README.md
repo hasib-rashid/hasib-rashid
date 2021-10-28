@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer. </i> </h3>
-<h3> - <b>Alan Turing</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes. </i> </h3>
+<h3> - <b>Harlan Mills</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
