@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more. </i> </h3>
-<h3> - <b>Jim Horning</b> </h3> </blockquote>
+<blockquote> <h3> <i> The top 5% of programmers probably write 99% of the good software. </i> </h3>
+<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
