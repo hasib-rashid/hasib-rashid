@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Good code is short, simple, and symmetrical - the challenge is figuring out how to get there. </i> </h3>
-<h3> - <b>Sean Parent</b> </h3> </blockquote>
+<blockquote> <h3> <i> A lot of companies hire people to tell them what to do. We hire people to tell us what to do. </i> </h3>
+<h3> - <b>Steve Jobs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
