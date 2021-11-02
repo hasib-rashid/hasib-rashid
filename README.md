@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> You can’t trust code that you did not totally create yourself. </i> </h3>
-<h3> - <b>Ken Thompson</b> </h3> </blockquote>
+<blockquote> <h3> <i> We who cut mere stones must always be envisioning cathedrals. </i> </h3>
+<h3> - <b>Quarry worker's creed</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
