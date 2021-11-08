@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important. </i> </h3>
-<h3> - <b>Ward Cunningham</b> </h3> </blockquote>
+<blockquote> <h3> <i> All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal. </i> </h3>
+<h3> - <b>Albert Einstein</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
