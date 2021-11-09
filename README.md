@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> You can’t trust code that you did not totally create yourself. </i> </h3>
-<h3> - <b>Ken Thompson</b> </h3> </blockquote>
+<blockquote> <h3> <i> I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one. </i> </h3>
+<h3> - <b>David Parnas</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
