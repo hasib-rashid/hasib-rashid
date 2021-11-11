@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. </i> </h3>
-<h3> - <b>Rick Osborne</b> </h3> </blockquote>
+<blockquote> <h3> <i> My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
