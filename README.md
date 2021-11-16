@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data. </i> </h3>
-<h3> - <b>Charles Babbage</b> </h3> </blockquote>
+<blockquote> <h3> <i> Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are. </i> </h3>
+<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
