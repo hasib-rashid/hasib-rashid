@@ -79,9 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I think there is a world market for maybe five
-computers. </i> </h3>
-<h3> - <b>Thomas J. Watson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down. </i> </h3>
+<h3> - <b>Tom DeMarco</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
