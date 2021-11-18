@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. </i> </h3>
-<h3> - <b>Stewart Brand</b> </h3> </blockquote>
+<blockquote> <h3> <i> The difference between theory and practice is that in theory, there is no difference between theory and practice. </i> </h3>
+<h3> - <b>Richard Moore (engineer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
