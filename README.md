@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Life is too short to run proprietary software. </i> </h3>
-<h3> - <b>Bdale Garbee</b> </h3> </blockquote>
+<blockquote> <h3> <i> A few months writing code can save you a few hours in design. </i> </h3>
+<h3> - <b>Anonymous</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
