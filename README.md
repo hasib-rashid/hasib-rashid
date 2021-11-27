@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Machines take me by surprise with great frequency. </i> </h3>
-<h3> - <b>Alan Turing</b> </h3> </blockquote>
+<blockquote> <h3> <i> Compatibility means deliberately repeating other people’s mistakes. </i> </h3>
+<h3> - <b>David Wheeler (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
