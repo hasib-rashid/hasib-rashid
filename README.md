@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer. </i> </h3>
-<h3> - <b>Jamie Zawinski</b> </h3> </blockquote>
+<blockquote> <h3> <i> That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted. </i> </h3>
+<h3> - <b>George Boole</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
