@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> JavaScript is the world's most misunderstood programming language. </i> </h3>
+<blockquote> <h3> <i> Don't worry about anything. Just do what you can and be the best you can be. </i> </h3>
 <h3> - <b>Douglas Crockford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
