@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other. </i> </h3>
-<h3> - <b>John Carmack</b> </h3> </blockquote>
+<blockquote> <h3> <i> The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device. </i> </h3>
+<h3> - <b>Danny Hillis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
