@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Young man, in mathematics you don't understand things. You just get used to them. </i> </h3>
-<h3> - <b>John von Neumann</b> </h3> </blockquote>
+<blockquote> <h3> <i> Your most unhappy customers are your greatest source of learning. </i> </h3>
+<h3> - <b>Bill Gates</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
