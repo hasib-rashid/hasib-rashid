@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Everything should be made as simple as possible. But to do that you have to master complexity. </i> </h3>
-<h3> - <b>Butler Lampson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do. </i> </h3>
+<h3> - <b>Ted Nelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
