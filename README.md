@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I think programming is very much a religious experience for a lot of people. </i> </h3>
-<h3> - <b>Gary Kildall</b> </h3> </blockquote>
+<blockquote> <h3> <i> Don't worry about anything. Just do what you can and be the best you can be. </i> </h3>
+<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
