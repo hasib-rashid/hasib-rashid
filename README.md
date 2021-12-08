@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless. </i> </h3>
-<h3> - <b>Addy Osmani</b> </h3> </blockquote>
+<blockquote> <h3> <i> The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
