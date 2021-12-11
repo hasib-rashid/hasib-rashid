@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires. </i> </h3>
-<h3> - <b>Andy Hertzfeld</b> </h3> </blockquote>
+<blockquote> <h3> <i> A language that doesn’t have everything is actually easier to program in than some that do. </i> </h3>
+<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
