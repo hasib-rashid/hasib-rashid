@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If debugging is the process of removing software bugs, then programming must be the process of putting them in. </i> </h3>
+<blockquote> <h3> <i> The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. </i> </h3>
 <h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
