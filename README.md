@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed. </i> </h3>
-<h3> - <b>Marijn Haverbeke</b> </h3> </blockquote>
+<blockquote> <h3> <i> One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
