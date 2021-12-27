@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. </i> </h3>
-<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
+<blockquote> <h3> <i> Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for. </i> </h3>
+<h3> - <b>Chris Sacca</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
