@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I don't like using any tools or programs I didn't write myself or that I don't have some control over. </i> </h3>
-<h3> - <b>Jonathan Sachs</b> </h3> </blockquote>
+<blockquote> <h3> <i> I'm doing a free operating system (just a hobby, won't be big and professional like GNU). </i> </h3>
+<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
