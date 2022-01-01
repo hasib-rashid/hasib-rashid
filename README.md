@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Whenever logical processes of thought are employed, there is an opportunity for the machine. </i> </h3>
-<h3> - <b>Vannevar Bush</b> </h3> </blockquote>
+<blockquote> <h3> <i> I'm not a great programmer; I'm just a good programmer with great habits. </i> </h3>
+<h3> - <b>Kent Beck</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
