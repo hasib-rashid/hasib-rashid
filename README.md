@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. </i> </h3>
-<h3> - <b>Stewart Brand</b> </h3> </blockquote>
+<blockquote> <h3> <i> A computer shall not waste your time or require you to do more work than is strictly necessary. </i> </h3>
+<h3> - <b>Jef Raskin</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
