@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected. </i> </h3>
+<blockquote> <h3> <i> Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are. </i> </h3>
 <h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
