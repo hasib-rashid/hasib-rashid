@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for. </i> </h3>
-<h3> - <b>John Carmack</b> </h3> </blockquote>
+<blockquote> <h3> <i> A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. </i> </h3>
+<h3> - <b>Leslie Lamport</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
