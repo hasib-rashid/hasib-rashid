@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A good programmer is someone who looks both ways before crossing a one-way street. </i> </h3>
-<h3> - <b>Doug Linder</b> </h3> </blockquote>
+<blockquote> <h3> <i> Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server. </i> </h3>
+<h3> - <b>Roy Fielding</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
