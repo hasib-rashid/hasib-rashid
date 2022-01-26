@@ -79,9 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language. </i> </h3>
-<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
+<blockquote> <h3> <i> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. </i> </h3>
+<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
