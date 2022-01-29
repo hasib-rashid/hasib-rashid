@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence. </i> </h3>
-<h3> - <b>Jeremy S. Anderson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
