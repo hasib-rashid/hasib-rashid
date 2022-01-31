@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it. </i> </h3>
-<h3> - <b>Alan Perlis</b> </h3> </blockquote>
+<blockquote> <h3> <i> The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. </i> </h3>
+<h3> - <b>Randall E. Stross</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
