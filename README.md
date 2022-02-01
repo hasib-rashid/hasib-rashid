@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Premature abstraction is as bad as premature optimization. </i> </h3>
-<h3> - <b>Luciano Ramalho</b> </h3> </blockquote>
+<blockquote> <h3> <i> As soon as an Analytical Engine exists, it will necessarily guide the future course of science. </i> </h3>
+<h3> - <b>Charles Babbage</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
