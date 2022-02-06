@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful. </i> </h3>
-<h3> - <b>Joe Armstrong (programmer)</b> </h3> </blockquote>
+<blockquote> <h3> <i> Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
