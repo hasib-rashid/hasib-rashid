@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function. </i> </h3>
-<h3> - <b>John Carmack</b> </h3> </blockquote>
+<blockquote> <h3> <i> Artificial intelligence is the science of making machines do things that would require intelligence if done by men. </i> </h3>
+<h3> - <b>Marvin Minsky</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
