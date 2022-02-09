@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected. </i> </h3>
-<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
+<blockquote> <h3> <i> The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast. </i> </h3>
+<h3> - <b>Joshua Bloch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
