@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program. </i> </h3>
-<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
+<blockquote> <h3> <i> The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. </i> </h3>
+<h3> - <b>Randall E. Stross</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
