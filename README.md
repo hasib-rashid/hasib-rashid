@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> AI is a fundamental risk to the existence of human civilization. </i> </h3>
-<h3> - <b>Elon Musk</b> </h3> </blockquote>
+<blockquote> <h3> <i> A number of studies have shown testing not very effective at finding bugs. </i> </h3>
+<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
