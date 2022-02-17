@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> There are few sources of energy so powerful as a procrastinating grad student. </i> </h3>
+<blockquote> <h3> <i> The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. </i> </h3>
 <h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
