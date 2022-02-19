@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> In programming the hard part isn’t solving problems, but deciding what problems to solve. </i> </h3>
+<blockquote> <h3> <i> The most important thing is to be able to think what you want, not to say what you want. </i> </h3>
 <h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
