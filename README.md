@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The best thing about a boolean is even if you are wrong, you are only off by a bit. </i> </h3>
-<h3> - <b>Anonymous</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programming is the ultimate field for someone who likes to tinker. </i> </h3>
+<h3> - <b>Ray Ozzie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
