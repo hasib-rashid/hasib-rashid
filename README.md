@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully. </i> </h3>
-<h3> - <b>David Parnas</b> </h3> </blockquote>
+<blockquote> <h3> <i> First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
