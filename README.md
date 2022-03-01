@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous. </i> </h3>
-<h3> - <b>Kent Beck</b> </h3> </blockquote>
+<blockquote> <h3> <i> It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter. </i> </h3>
+<h3> - <b>Nathaniel Borenstein</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
