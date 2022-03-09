@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Artificial intelligence is the science of making machines do things that would require intelligence if done by men. </i> </h3>
-<h3> - <b>Marvin Minsky</b> </h3> </blockquote>
+<blockquote> <h3> <i> Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person. </i> </h3>
+<h3> - <b>Michael Stal</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
