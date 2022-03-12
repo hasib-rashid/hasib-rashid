@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs. </i> </h3>
-<h3> - <b>Maurice Wilkes</b> </h3> </blockquote>
+<blockquote> <h3> <i> Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you. </i> </h3>
+<h3> - <b>Richard P. Gabriel</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
