@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> There is no programming language, no matter how structured, that will prevent programmers from making bad programs. </i> </h3>
-<h3> - <b>Lawrence Flon</b> </h3> </blockquote>
+<blockquote> <h3> <i> The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do. </i> </h3>
+<h3> - <b>Ted Nelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
