@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A lot of companies hire people to tell them what to do. We hire people to tell us what to do. </i> </h3>
-<h3> - <b>Steve Jobs</b> </h3> </blockquote>
+<blockquote> <h3> <i> SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing. </i> </h3>
+<h3> - <b>Philip Greenspun</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
