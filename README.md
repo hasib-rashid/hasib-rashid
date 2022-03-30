@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A lot of companies hire people to tell them what to do. We hire people to tell us what to do. </i> </h3>
-<h3> - <b>Steve Jobs</b> </h3> </blockquote>
+<blockquote> <h3> <i> There is no programming language, no matter how structured, that will prevent programmers from making bad programs. </i> </h3>
+<h3> - <b>Lawrence Flon</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
