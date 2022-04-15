@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Even in the games of children there are things to interest the greatest mathematician. </i> </h3>
-<h3> - <b>Gottfried Wilhelm Leibniz</b> </h3> </blockquote>
+<blockquote> <h3> <i> I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
