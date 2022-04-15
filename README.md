@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When there is no type hierarchy you don’t have to manage the type hierarchy. </i> </h3>
-<h3> - <b>Rob Pike</b> </h3> </blockquote>
+<blockquote> <h3> <i> When in doubt, use brute force. </i> </h3>
+<h3> - <b>Ken Thompson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
