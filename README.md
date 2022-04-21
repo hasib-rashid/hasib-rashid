@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds. </i> </h3>
-<h3> - <b>Steve Jobs</b> </h3> </blockquote>
+<blockquote> <h3> <i> Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team. </i> </h3>
+<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
