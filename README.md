@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing. </i> </h3>
-<h3> - <b>Philip Greenspun</b> </h3> </blockquote>
+<blockquote> <h3> <i> A computer shall not waste your time or require you to do more work than is strictly necessary. </i> </h3>
+<h3> - <b>Jef Raskin</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
