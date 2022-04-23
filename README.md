@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. </i> </h3>
+<blockquote> <h3> <i> Controlling complexity is the essence of computer programming. </i> </h3>
 <h3> - <b>Brian Kernighan</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
