@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off. </i> </h3>
-<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
+<blockquote> <h3> <i> The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right. </i> </h3>
+<h3> - <b>Michael A. Jackson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
