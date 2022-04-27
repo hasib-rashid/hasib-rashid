@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A language that doesn’t have everything is actually easier to program in than some that do. </i> </h3>
-<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
+<blockquote> <h3> <i> Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number. </i> </h3>
+<h3> - <b>John von Neumann</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
