@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code. </i> </h3>
-<h3> - <b>Gary Kildall</b> </h3> </blockquote>
+<blockquote> <h3> <i> Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice. </i> </h3>
+<h3> - <b>Martin Fowler</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
