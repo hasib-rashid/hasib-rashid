@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs. </i> </h3>
-<h3> - <b>Simon Peyton Jones</b> </h3> </blockquote>
+<blockquote> <h3> <i> The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones. </i> </h3>
+<h3> - <b>Terry Winograd</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
