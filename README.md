@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. </i> </h3>
-<h3> - <b>Rick Osborne</b> </h3> </blockquote>
+<blockquote> <h3> <i> Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love. </i> </h3>
+<h3> - <b>Pete Cordell</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
