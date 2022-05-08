@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically. </i> </h3>
-<h3> - <b>Gerald Weinberg</b> </h3> </blockquote>
+<blockquote> <h3> <i> The more code you have, the more places there are for bugs to hide. </i> </h3>
+<h3> - <b>Rich Skrenta</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
