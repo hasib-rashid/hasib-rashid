@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Once the computers got control, we might never get it back. </i> </h3>
-<h3> - <b>Marvin Minsky</b> </h3> </blockquote>
+<blockquote> <h3> <i> I don't like using any tools or programs I didn't write myself or that I don't have some control over. </i> </h3>
+<h3> - <b>Jonathan Sachs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
