@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The best way to know that you have found the last bug is never to find the first bug. </i> </h3>
-<h3> - <b>Harlan Mills</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you learn how to solve problems, you can go through life and do pretty well. </i> </h3>
+<h3> - <b>Gary Kildall</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
