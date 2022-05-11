@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. </i> </h3>
-<h3> - <b>John Gall (author)</b> </h3> </blockquote>
+<blockquote> <h3> <i> By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
