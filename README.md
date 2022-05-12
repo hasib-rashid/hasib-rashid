@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The manager's function is not to make people work, but to make it possible for people to work. </i> </h3>
-<h3> - <b>Tom DeMarco</b> </h3> </blockquote>
+<blockquote> <h3> <i> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. </i> </h3>
+<h3> - <b>Martin Fowler</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
