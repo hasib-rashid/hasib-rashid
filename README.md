@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more. </i> </h3>
-<h3> - <b>Jim Horning</b> </h3> </blockquote>
+<blockquote> <h3> <i> What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form. </i> </h3>
+<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
