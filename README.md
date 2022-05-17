@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> People should be able to speak and breathe programs just like they talk now. </i> </h3>
-<h3> - <b>Jaron Lanier</b> </h3> </blockquote>
+<blockquote> <h3> <i> AI is a fundamental risk to the existence of human civilization. </i> </h3>
+<h3> - <b>Elon Musk</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
