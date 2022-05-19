@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Machines take me by surprise with great frequency. </i> </h3>
-<h3> - <b>Alan Turing</b> </h3> </blockquote>
+<blockquote> <h3> <i> I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully. </i> </h3>
+<h3> - <b>David Parnas</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
