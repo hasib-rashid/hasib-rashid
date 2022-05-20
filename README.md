@@ -79,8 +79,10 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Adding manpower to a late software project makes it later. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood! </i> </h3>
+<h3> - <b>Michael A. Jackson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
