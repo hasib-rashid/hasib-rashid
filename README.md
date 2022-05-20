@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. </i> </h3>
-<h3> - <b>Martin Fowler</b> </h3> </blockquote>
+<blockquote> <h3> <i> In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it. </i> </h3>
+<h3> - <b>Richard Hamming</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
