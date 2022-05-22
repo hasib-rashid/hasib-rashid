@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing. </i> </h3>
-<h3> - <b>Philip Greenspun</b> </h3> </blockquote>
+<blockquote> <h3> <i> Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change. </i> </h3>
+<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
