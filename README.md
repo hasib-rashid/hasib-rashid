@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience. </i> </h3>
-<h3> - <b>Albert Einstein</b> </h3> </blockquote>
+<blockquote> <h3> <i> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. </i> </h3>
+<h3> - <b>John von Neumann</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
