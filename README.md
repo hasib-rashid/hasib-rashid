@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> That hardly ever happens is another way of saying 'it happens'. </i> </h3>
+<blockquote> <h3> <i> JavaScript, purely by accident, has become the most popular programming language in the world. </i> </h3>
 <h3> - <b>Douglas Crockford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
