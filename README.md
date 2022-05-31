@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The best minds of my generation are thinking about how to make people click ads. </i> </h3>
-<h3> - <b>Jeff Hammerbacher</b> </h3> </blockquote>
+<blockquote> <h3> <i> There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better. </i> </h3>
+<h3> - <b>Marijn Haverbeke</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
