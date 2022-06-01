@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. </i> </h3>
-<h3> - <b>Alan Kay</b> </h3> </blockquote>
+<blockquote> <h3> <i> I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length. </i> </h3>
+<h3> - <b>Carl Friedrich Gauss</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
