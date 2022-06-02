@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it. </i> </h3>
-<h3> - <b>Marijn Haverbeke</b> </h3> </blockquote>
+<blockquote> <h3> <i> The Domain Name Server (DNS) is the Achilles heel of the Web. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
