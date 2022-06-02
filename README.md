@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A good programmer is someone who looks both ways before crossing a one-way street. </i> </h3>
-<h3> - <b>Doug Linder</b> </h3> </blockquote>
+<blockquote> <h3> <i> While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud. </i> </h3>
+<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
