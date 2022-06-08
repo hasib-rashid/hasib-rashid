@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I think you should always bear in mind that entropy is not on your side. </i> </h3>
-<h3> - <b>Elon Musk</b> </h3> </blockquote>
+<blockquote> <h3> <i> Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function. </i> </h3>
+<h3> - <b>John Carmack</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
