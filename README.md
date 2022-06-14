@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The entire history of software engineering is that of the rise in levels of abstraction. </i> </h3>
-<h3> - <b>Grady Booch</b> </h3> </blockquote>
+<blockquote> <h3> <i> The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. </i> </h3>
+<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
