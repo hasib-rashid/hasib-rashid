@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person. </i> </h3>
-<h3> - <b>Charles Simonyi</b> </h3> </blockquote>
+<blockquote> <h3> <i> Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application. </i> </h3>
+<h3> - <b>Ted Nelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
