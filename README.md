@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Programming increases goes as a power of program size. </i> </h3>
+<blockquote> <h3> <i> What one programmer can do in one month, two programmers can do in two months. </i> </h3>
 <h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
