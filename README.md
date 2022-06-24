@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sometimes it’s just easier to throw a system away, and start over. </i> </h3>
+<blockquote> <h3> <i> Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal. </i> </h3>
 <h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
