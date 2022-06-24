@@ -79,9 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small. </i> </h3>
-<h3> - <b>Bob Frankston</b> </h3> </blockquote>
+<blockquote> <h3> <i> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. </i> </h3>
+<h3> - <b>Alan Kay</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
