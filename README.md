@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. </i> </h3>
-<h3> - <b>Mario Fusco</b> </h3> </blockquote>
+<blockquote> <h3> <i> Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction. </i> </h3>
+<h3> - <b>Albert Einstein</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
