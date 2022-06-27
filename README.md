@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice. </i> </h3>
-<h3> - <b>Martin Fowler</b> </h3> </blockquote>
+<blockquote> <h3> <i> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. </i> </h3>
+<h3> - <b>John von Neumann</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
