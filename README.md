@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The best thing about a boolean is even if you are wrong, you are only off by a bit. </i> </h3>
-<h3> - <b>Anonymous</b> </h3> </blockquote>
+<blockquote> <h3> <i> People under pressure don’t work better; they just work faster. </i> </h3>
+<h3> - <b>Tom DeMarco</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
