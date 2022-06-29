@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Deleted code is debugged code. </i> </h3>
-<h3> - <b>Jeff Sickel</b> </h3> </blockquote>
+<blockquote> <h3> <i> When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong. </i> </h3>
+<h3> - <b>Arthur C. Clarke</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
