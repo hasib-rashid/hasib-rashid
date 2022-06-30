@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Programming increases goes as a power of program size. </i> </h3>
+<blockquote> <h3> <i> Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure. </i> </h3>
 <h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
