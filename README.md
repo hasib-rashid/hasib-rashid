@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind. </i> </h3>
+<blockquote> <h3> <i> The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do. </i> </h3>
 <h3> - <b>Ted Nelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
