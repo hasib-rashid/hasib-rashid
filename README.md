@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. </i> </h3>
-<h3> - <b>Leslie Lamport</b> </h3> </blockquote>
+<blockquote> <h3> <i> What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three. </i> </h3>
+<h3> - <b>Charles Simonyi</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
