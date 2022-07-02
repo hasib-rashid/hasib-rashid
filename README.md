@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> There is no reason anyone would want a computer in their home. </i> </h3>
-<h3> - <b>Ken Olsen</b> </h3> </blockquote>
+<blockquote> <h3> <i> The limits of my language mean the limits of my world. </i> </h3>
+<h3> - <b>Ludwig Wittgenstein</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
