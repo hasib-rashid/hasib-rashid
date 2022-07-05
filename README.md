@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> People should be able to speak and breathe programs just like they talk now. </i> </h3>
-<h3> - <b>Jaron Lanier</b> </h3> </blockquote>
+<blockquote> <h3> <i> When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically. </i> </h3>
+<h3> - <b>Gerald Weinberg</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
