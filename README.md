@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes. </i> </h3>
-<h3> - <b>Harlan Mills</b> </h3> </blockquote>
+<blockquote> <h3> <i> False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
