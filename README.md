@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The most important thing is to be able to think what you want, not to say what you want. </i> </h3>
-<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
+<blockquote> <h3> <i> We build our computer systems the way we build our cities: over time, without a plan, on top of ruins. </i> </h3>
+<h3> - <b>Ellen Ullman</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
