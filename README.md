@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work. </i> </h3>
-<h3> - <b>Michael Hawley</b> </h3> </blockquote>
+<blockquote> <h3> <i> There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence. </i> </h3>
+<h3> - <b>Jeremy S. Anderson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
