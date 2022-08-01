@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware. </i> </h3>
-<h3> - <b>Martin Fowler</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes. </i> </h3>
+<h3> - <b>Harlan Mills</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
