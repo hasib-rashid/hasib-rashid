@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. </i> </h3>
-<h3> - <b>Stewart Brand</b> </h3> </blockquote>
+<blockquote> <h3> <i> To be a hacker - when I use the term - is somebody who is creative and does wonderful things. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
