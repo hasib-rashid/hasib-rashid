@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line. </i> </h3>
-<h3> - <b>Ada Lovelace</b> </h3> </blockquote>
+<blockquote> <h3> <i> The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design. </i> </h3>
+<h3> - <b>Elon Musk</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
