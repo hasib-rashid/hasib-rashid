@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love. </i> </h3>
-<h3> - <b>Pete Cordell</b> </h3> </blockquote>
+<blockquote> <h3> <i> The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field. </i> </h3>
+<h3> - <b>Robert L. Glass</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
