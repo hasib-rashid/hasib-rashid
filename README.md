@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer. </i> </h3>
-<h3> - <b>Jamie Zawinski</b> </h3> </blockquote>
+<blockquote> <h3> <i> It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans. </i> </h3>
+<h3> - <b>Steve Jobs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
