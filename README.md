@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web. </i> </h3>
-<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
+<blockquote> <h3> <i> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine. </i> </h3>
+<h3> - <b>Alan Turing</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
