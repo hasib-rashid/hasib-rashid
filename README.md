@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds. </i> </h3>
-<h3> - <b>Ted Nelson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The entire history of software engineering is that of the rise in levels of abstraction. </i> </h3>
+<h3> - <b>Grady Booch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
