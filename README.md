@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. </i> </h3>
-<h3> - <b>Brian Kernighan</b> </h3> </blockquote>
+<blockquote> <h3> <i> What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form. </i> </h3>
+<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
