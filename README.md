@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The best way to know that you have found the last bug is never to find the first bug. </i> </h3>
-<h3> - <b>Harlan Mills</b> </h3> </blockquote>
+<blockquote> <h3> <i> Whenever logical processes of thought are employed, there is an opportunity for the machine. </i> </h3>
+<h3> - <b>Vannevar Bush</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
