@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion. </i> </h3>
-<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
+<blockquote> <h3> <i> The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design. </i> </h3>
+<h3> - <b>Elon Musk</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
