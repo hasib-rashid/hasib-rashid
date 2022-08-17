@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The computing scientist’s main challenge is not to get confused by the complexities of his own making. </i> </h3>
-<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
+<blockquote> <h3> <i> I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
