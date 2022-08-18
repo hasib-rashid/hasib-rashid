@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> A program that produces incorrect results twice as fast is infinitely slower. </i> </h3>
+<h3> - <b>John Ousterhout</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
