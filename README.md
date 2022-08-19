@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Object-oriented design is the roman numerals of computing. </i> </h3>
+<blockquote> <h3> <i> When there is no type hierarchy you don’t have to manage the type hierarchy. </i> </h3>
 <h3> - <b>Rob Pike</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
