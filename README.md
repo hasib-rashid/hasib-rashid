@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When a program is clean and neat, nicely structured, and consistent, it can be beautiful. </i> </h3>
-<h3> - <b>Gary Kildall</b> </h3> </blockquote>
+<blockquote> <h3> <i> The more code you have, the more places there are for bugs to hide. </i> </h3>
+<h3> - <b>Rich Skrenta</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
