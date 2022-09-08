@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Dealing with failure is easy: Work hard to improve. </i> </h3>
-<h3> - <b>Alan Perlis</b> </h3> </blockquote>
+<blockquote> <h3> <i> It's not so important what you work on, so long as you're not wasting your time. </i> </h3>
+<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
