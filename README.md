@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Whenever logical processes of thought are employed, there is an opportunity for the machine. </i> </h3>
-<h3> - <b>Vannevar Bush</b> </h3> </blockquote>
+<blockquote> <h3> <i> I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard. </i> </h3>
+<h3> - <b>Ken Thompson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
