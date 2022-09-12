@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Debugging time increases as a square of the program’s size. </i> </h3>
-<h3> - <b>Chris Wenham</b> </h3> </blockquote>
+<blockquote> <h3> <i> I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
