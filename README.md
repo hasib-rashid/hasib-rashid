@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server. </i> </h3>
-<h3> - <b>Roy Fielding</b> </h3> </blockquote>
+<blockquote> <h3> <i> A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience. </i> </h3>
+<h3> - <b>Albert Einstein</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
