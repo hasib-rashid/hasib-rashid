@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves. </i> </h3>
-<h3> - <b>Marijn Haverbeke</b> </h3> </blockquote>
+<blockquote> <h3> <i> A lot of companies hire people to tell them what to do. We hire people to tell us what to do. </i> </h3>
+<h3> - <b>Steve Jobs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
