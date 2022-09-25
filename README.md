@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose. </i> </h3>
-<h3> - <b>Martin Fowler</b> </h3> </blockquote>
+<blockquote> <h3> <i> It's not so important what you work on, so long as you're not wasting your time. </i> </h3>
+<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
