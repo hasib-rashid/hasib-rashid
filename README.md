@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is. </i> </h3>
-<h3> - <b>Danny Hillis</b> </h3> </blockquote>
+<blockquote> <h3> <i> Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it. </i> </h3>
+<h3> - <b>Anders Hejlsberg</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
