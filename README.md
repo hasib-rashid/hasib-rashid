@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Everything should be made as simple as possible. But to do that you have to master complexity. </i> </h3>
-<h3> - <b>Butler Lampson</b> </h3> </blockquote>
+<blockquote> <h3> <i> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine. </i> </h3>
+<h3> - <b>Alan Turing</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
