@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> To iterate is human, to recurse divine. </i> </h3>
-<h3> - <b>L. Peter Deutsch</b> </h3> </blockquote>
+<blockquote> <h3> <i> Much of the essence of building a program is in fact the debugging of the specification. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
