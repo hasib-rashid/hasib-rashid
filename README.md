@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right. </i> </h3>
-<h3> - <b>Michael A. Jackson</b> </h3> </blockquote>
+<blockquote> <h3> <i> Beware of bugs in the above code; I have only proved it correct, not tried it. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
