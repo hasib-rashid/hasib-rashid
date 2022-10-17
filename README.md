@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages. </i> </h3>
-<h3> - <b>Richard Stallman</b> </h3> </blockquote>
+<blockquote> <h3> <i> It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans. </i> </h3>
+<h3> - <b>Steve Jobs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
