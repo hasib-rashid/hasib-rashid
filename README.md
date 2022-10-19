@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number. </i> </h3>
-<h3> - <b>John von Neumann</b> </h3> </blockquote>
+<blockquote> <h3> <i> I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard. </i> </h3>
+<h3> - <b>Ken Thompson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
