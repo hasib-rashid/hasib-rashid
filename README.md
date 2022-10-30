@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> It is easier to change the specification to fit the program than vice versa. </i> </h3>
+<blockquote> <h3> <i> Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. </i> </h3>
 <h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
