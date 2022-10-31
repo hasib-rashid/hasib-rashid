@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are. </i> </h3>
-<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
+<blockquote> <h3> <i> A computer shall not waste your time or require you to do more work than is strictly necessary. </i> </h3>
+<h3> - <b>Jef Raskin</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
