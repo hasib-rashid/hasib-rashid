@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match. </i> </h3>
-<h3> - <b>David Parnas</b> </h3> </blockquote>
+<blockquote> <h3> <i> Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application. </i> </h3>
+<h3> - <b>Ted Nelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
