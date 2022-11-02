@@ -79,10 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood! </i> </h3>
-<h3> - <b>Michael A. Jackson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones. </i> </h3>
+<h3> - <b>Terry Winograd</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
