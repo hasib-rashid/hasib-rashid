@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it. </i> </h3>
-<h3> - <b>Alan Perlis</b> </h3> </blockquote>
+<blockquote> <h3> <i> Debugging time increases as a square of the program’s size. </i> </h3>
+<h3> - <b>Chris Wenham</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
