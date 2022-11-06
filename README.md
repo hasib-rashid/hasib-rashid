@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization. </i> </h3>
-<h3> - <b>Gerald Weinberg</b> </h3> </blockquote>
+<blockquote> <h3> <i> Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work. </i> </h3>
+<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
