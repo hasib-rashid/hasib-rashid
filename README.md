@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> No matter how slow you are writing clean code, you will always be slower if you make a mess. </i> </h3>
-<h3> - <b>Robert C. Martin</b> </h3> </blockquote>
+<blockquote> <h3> <i> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine. </i> </h3>
+<h3> - <b>Alan Turing</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
