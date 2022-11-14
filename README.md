@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sometimes it’s just easier to throw a system away, and start over. </i> </h3>
-<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
+<blockquote> <h3> <i> The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast. </i> </h3>
+<h3> - <b>Joshua Bloch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
