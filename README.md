@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Walking on water and developing software from a specification are easy if both are frozen. </i> </h3>
-<h3> - <b>Edward V. Berard</b> </h3> </blockquote>
+<blockquote> <h3> <i> A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. </i> </h3>
+<h3> - <b>Leslie Lamport</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
