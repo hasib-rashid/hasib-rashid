@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better. </i> </h3>
+<blockquote> <h3> <i> Beware of bugs in the above code; I have only proved it correct, not tried it. </i> </h3>
 <h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
