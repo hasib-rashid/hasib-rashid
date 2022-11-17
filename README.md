@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Any technological or managerial scheme to force documentation can be subverted by unwilling programmers. </i> </h3>
+<blockquote> <h3> <i> Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects. </i> </h3>
 <h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
