@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> First, solve the problem. Then, write the code. </i> </h3>
-<h3> - <b>John Johnson</b> </h3> </blockquote>
+<blockquote> <h3> <i> Once the computers got control, we might never get it back. </i> </h3>
+<h3> - <b>Marvin Minsky</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
