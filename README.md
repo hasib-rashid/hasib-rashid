@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new. </i> </h3>
-<h3> - <b>Steve Jobs</b> </h3> </blockquote>
+<blockquote> <h3> <i> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved. </i> </h3>
+<h3> - <b>Mark Gibbs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
