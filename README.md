@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h3>
-<h3> - <b>Jan L. A. van de Snepscheut</b> </h3> </blockquote>
+<blockquote> <h3> <i> The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time. </i> </h3>
+<h3> - <b>Tom Cargill</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
