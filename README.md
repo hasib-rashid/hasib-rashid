@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A programming language is low level when its programs require attention to the irrelevant. </i> </h3>
-<h3> - <b>Alan Perlis</b> </h3> </blockquote>
+<blockquote> <h3> <i> What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form. </i> </h3>
+<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
