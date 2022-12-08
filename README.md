@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you. </i> </h3>
-<h3> - <b>Richard P. Gabriel</b> </h3> </blockquote>
+<blockquote> <h3> <i> First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack. </i> </h3>
+<h3> - <b>George Carrette</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
