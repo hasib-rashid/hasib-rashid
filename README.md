@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. </i> </h3>
-<h3> - <b>Stewart Brand</b> </h3> </blockquote>
+<blockquote> <h3> <i> By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
