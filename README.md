@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless. </i> </h3>
-<h3> - <b>Addy Osmani</b> </h3> </blockquote>
+<blockquote> <h3> <i> I'm not a great programmer; I'm just a good programmer with great habits. </i> </h3>
+<h3> - <b>Kent Beck</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
