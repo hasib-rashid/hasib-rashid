@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A year spent in artificial intelligence is enough to make one believe in God. </i> </h3>
+<blockquote> <h3> <i> It is easier to change the specification to fit the program than vice versa. </i> </h3>
 <h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
