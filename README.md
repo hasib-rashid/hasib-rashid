@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself. </i> </h3>
-<h3> - <b>Donald Knuth</b> </h3> </blockquote>
+<blockquote> <h3> <i> I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code. </i> </h3>
+<h3> - <b>Gary Kildall</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
