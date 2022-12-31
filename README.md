@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them. </i> </h3>
+<h3> - <b>Bill Gates</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
