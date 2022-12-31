@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> In man-machine symbiosis, it is man who must adjust: The machines can't. </i> </h3>
+<blockquote> <h3> <i> If you have a procedure with 10 parameters, you probably missed some. </i> </h3>
 <h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
