@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If Microsoft ever does applications for Linux it means I've won. </i> </h3>
-<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
+<blockquote> <h3> <i> The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known. </i> </h3>
+<h3> - <b>Harlan Mills</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
