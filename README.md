@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software. </i> </h3>
-<h3> - <b>L. Peter Deutsch</b> </h3> </blockquote>
+<blockquote> <h3> <i> Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you. </i> </h3>
+<h3> - <b>Richard P. Gabriel</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
