@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal. </i> </h3>
-<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
+<blockquote> <h3> <i> Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements! </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
