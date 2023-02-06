@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success. </i> </h3>
-<h3> - <b>John Warnock</b> </h3> </blockquote>
+<blockquote> <h3> <i> W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent. </i> </h3>
+<h3> - <b>Martin Fowler</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
