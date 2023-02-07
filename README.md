@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes. </i> </h3>
-<h3> - <b>Bill Gates</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programming is the ultimate field for someone who likes to tinker. </i> </h3>
+<h3> - <b>Ray Ozzie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
