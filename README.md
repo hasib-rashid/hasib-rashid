@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h3>
+<h3> - <b>Jan L. A. van de Snepscheut</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
