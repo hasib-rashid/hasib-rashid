@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter. </i> </h3>
-<h3> - <b>Eric S. Raymond</b> </h3> </blockquote>
+<blockquote> <h3> <i> The entire history of software engineering is that of the rise in levels of abstraction. </i> </h3>
+<h3> - <b>Grady Booch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
