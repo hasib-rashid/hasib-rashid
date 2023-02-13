@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Compatibility means deliberately repeating other people’s mistakes. </i> </h3>
-<h3> - <b>David Wheeler (computer scientist)</b> </h3> </blockquote>
+<blockquote> <h3> <i> They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind. </i> </h3>
+<h3> - <b>Ted Nelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
