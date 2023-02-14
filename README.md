@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> There's only one trick in software, and that is using a piece of software that's already been written. </i> </h3>
-<h3> - <b>Bill Gates</b> </h3> </blockquote>
+<blockquote> <h3> <i> I'm doing a free operating system (just a hobby, won't be big and professional like GNU). </i> </h3>
+<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
