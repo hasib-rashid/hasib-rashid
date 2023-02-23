@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires. </i> </h3>
-<h3> - <b>Andy Hertzfeld</b> </h3> </blockquote>
+<blockquote> <h3> <i> The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
