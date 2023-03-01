@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity. </i> </h3>
-<h3> - <b>William Wulf</b> </h3> </blockquote>
+<blockquote> <h3> <i> The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature. </i> </h3>
+<h3> - <b>Ada Lovelace</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
