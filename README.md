@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The act of describing a program in unambiguous detail and the act of programming are one and the same. </i> </h3>
-<h3> - <b>Kevlin Henney</b> </h3> </blockquote>
+<blockquote> <h3> <i> Machines take me by surprise with great frequency. </i> </h3>
+<h3> - <b>Alan Turing</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
