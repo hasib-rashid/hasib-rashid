@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> AI is a fundamental risk to the existence of human civilization. </i> </h3>
-<h3> - <b>Elon Musk</b> </h3> </blockquote>
+<blockquote> <h3> <i> The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data. </i> </h3>
+<h3> - <b>Charles Babbage</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
