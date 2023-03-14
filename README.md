@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal. </i> </h3>
-<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
+<blockquote> <h3> <i> Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date. </i> </h3>
+<h3> - <b>James Gleick</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
