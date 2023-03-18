@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The next best thing to having good ideas is recognizing good ideas from your users. </i> </h3>
-<h3> - <b>Eric S. Raymond</b> </h3> </blockquote>
+<blockquote> <h3> <i> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. </i> </h3>
+<h3> - <b>Brian Kernighan</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
