@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Adding manpower to a late software project makes it later. </i> </h3>
+<blockquote> <h3> <i> One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out. </i> </h3>
 <h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
