@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important. </i> </h3>
-<h3> - <b>Ward Cunningham</b> </h3> </blockquote>
+<blockquote> <h3> <i> Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated. </i> </h3>
+<h3> - <b>Butler Lampson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
