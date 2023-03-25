@@ -79,8 +79,9 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The more code you have, the more places there are for bugs to hide. </i> </h3>
-<h3> - <b>Rich Skrenta</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small. </i> </h3>
+<h3> - <b>Bob Frankston</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
