@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The cheapest, fastest, and most reliable components are those that aren’t there. </i> </h3>
-<h3> - <b>Gordon Bell</b> </h3> </blockquote>
+<blockquote> <h3> <i> Machines take me by surprise with great frequency. </i> </h3>
+<h3> - <b>Alan Turing</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
