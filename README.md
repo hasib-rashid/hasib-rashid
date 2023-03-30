@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person. </i> </h3>
-<h3> - <b>Michael Stal</b> </h3> </blockquote>
+<blockquote> <h3> <i> What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form. </i> </h3>
+<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
