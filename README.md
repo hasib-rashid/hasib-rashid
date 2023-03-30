@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person. </i> </h3>
-<h3> - <b>Michael Stal</b> </h3> </blockquote>
+<blockquote> <h3> <i> Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion. </i> </h3>
+<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
