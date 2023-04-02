@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Every good work of software starts by scratching a developer’s personal itch. </i> </h3>
-<h3> - <b>Eric S. Raymond</b> </h3> </blockquote>
+<blockquote> <h3> <i> I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated. </i> </h3>
+<h3> - <b>Poul Anderson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
