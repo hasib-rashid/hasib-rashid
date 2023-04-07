@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length. </i> </h3>
-<h3> - <b>Carl Friedrich Gauss</b> </h3> </blockquote>
+<blockquote> <h3> <i> It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible. </i> </h3>
+<h3> - <b>Danny Hillis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
