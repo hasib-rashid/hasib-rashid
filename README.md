@@ -79,8 +79,9 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Debugging time increases as a square of the program’s size. </i> </h3>
-<h3> - <b>Chris Wenham</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small. </i> </h3>
+<h3> - <b>Bob Frankston</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
