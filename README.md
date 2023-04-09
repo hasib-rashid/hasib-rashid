@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The top 5% of programmers probably write 99% of the good software. </i> </h3>
-<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
+<blockquote> <h3> <i> The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value. </i> </h3>
+<h3> - <b>Ada Lovelace</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
