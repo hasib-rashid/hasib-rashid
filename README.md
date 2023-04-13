@@ -79,9 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small. </i> </h3>
-<h3> - <b>Bob Frankston</b> </h3> </blockquote>
+<blockquote> <h3> <i> I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots. </i> </h3>
+<h3> - <b>Ken Thompson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
