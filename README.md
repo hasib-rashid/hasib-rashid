@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves. </i> </h3>
-<h3> - <b>Ada Lovelace</b> </h3> </blockquote>
+<blockquote> <h3> <i> A few months writing code can save you a few hours in design. </i> </h3>
+<h3> - <b>Anonymous</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
