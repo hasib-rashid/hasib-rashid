@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. </i> </h3>
-<h3> - <b>Rick Osborne</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programming is the ultimate field for someone who likes to tinker. </i> </h3>
+<h3> - <b>Ray Ozzie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
