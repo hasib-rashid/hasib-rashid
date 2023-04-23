@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> C is quirky, flawed, and an enormous success. </i> </h3>
-<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
+<blockquote> <h3> <i> Good people with a good process will outperform good people with no process every time. </i> </h3>
+<h3> - <b>Grady Booch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
