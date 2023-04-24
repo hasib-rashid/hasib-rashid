@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders. </i> </h3>
-<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
+<blockquote> <h3> <i> Whenever logical processes of thought are employed, there is an opportunity for the machine. </i> </h3>
+<h3> - <b>Vannevar Bush</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
