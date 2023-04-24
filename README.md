@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems. </i> </h3>
-<h3> - <b>Jamie Zawinski</b> </h3> </blockquote>
+<blockquote> <h3> <i> What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work. </i> </h3>
+<h3> - <b>Michael Hawley</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
