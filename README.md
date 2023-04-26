@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Just because you've implemented something doesn't mean you understand it. </i> </h3>
-<h3> - <b>Brian Cantwell Smith</b> </h3> </blockquote>
+<blockquote> <h3> <i> In programming the hard part isn’t solving problems, but deciding what problems to solve. </i> </h3>
+<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
