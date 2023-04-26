@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The proper use of comments is to compensate for our failure to express ourself in code. </i> </h3>
-<h3> - <b>Robert C. Martin</b> </h3> </blockquote>
+<blockquote> <h3> <i> Ideas don't disappear. They change form, they merge with other ideas. </i> </h3>
+<h3> - <b>Bob Frankston</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
