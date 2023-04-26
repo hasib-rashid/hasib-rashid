@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets. </i> </h3>
-<h3> - <b>Steve McConnell</b> </h3> </blockquote>
+<blockquote> <h3> <i> The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
