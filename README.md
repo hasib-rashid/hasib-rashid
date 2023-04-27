@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Walking on water and developing software from a specification are easy if both are frozen. </i> </h3>
-<h3> - <b>Edward V. Berard</b> </h3> </blockquote>
+<blockquote> <h3> <i> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. </i> </h3>
+<h3> - <b>Bill Gates</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
