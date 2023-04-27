@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The limits of my language mean the limits of my world. </i> </h3>
-<h3> - <b>Ludwig Wittgenstein</b> </h3> </blockquote>
+<blockquote> <h3> <i> Walking on water and developing software from a specification are easy if both are frozen. </i> </h3>
+<h3> - <b>Edward V. Berard</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
