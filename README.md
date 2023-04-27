@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A beautiful program is like a beautiful theorem: It does the job elegantly. </i> </h3>
-<h3> - <b>Butler Lampson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The limits of my language mean the limits of my world. </i> </h3>
+<h3> - <b>Ludwig Wittgenstein</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
