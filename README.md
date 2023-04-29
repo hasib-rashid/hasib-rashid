@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret. </i> </h3>
-<h3> - <b>Richard Stallman</b> </h3> </blockquote>
+<blockquote> <h3> <i> A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds. </i> </h3>
+<h3> - <b>Ted Nelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
