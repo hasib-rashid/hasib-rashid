@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. </i> </h3>
-<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
+<blockquote> <h3> <i> Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something. </i> </h3>
+<h3> - <b>Richard Feynman</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
