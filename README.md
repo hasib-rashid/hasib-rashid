@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes. </i> </h3>
-<h3> - <b>Richard Hamming</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you learn how to solve problems, you can go through life and do pretty well. </i> </h3>
+<h3> - <b>Gary Kildall</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
