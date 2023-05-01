@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. </i> </h3>
-<h3> - <b>Mario Fusco</b> </h3> </blockquote>
+<blockquote> <h3> <i> A computer shall not waste your time or require you to do more work than is strictly necessary. </i> </h3>
+<h3> - <b>Jef Raskin</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
