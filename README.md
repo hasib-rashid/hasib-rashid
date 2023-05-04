@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience. </i> </h3>
-<h3> - <b>Wayne Ratliff</b> </h3> </blockquote>
+<blockquote> <h3> <i> And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do. </i> </h3>
+<h3> - <b>Vint Cerf</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
