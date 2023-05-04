@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The more code you have, the more places there are for bugs to hide. </i> </h3>
-<h3> - <b>Rich Skrenta</b> </h3> </blockquote>
+<blockquote> <h3> <i> No code is faster than no code. </i> </h3>
+<h3> - <b>Kevlin Henney</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
