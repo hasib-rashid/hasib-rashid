@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity. </i> </h3>
-<h3> - <b>William Wulf</b> </h3> </blockquote>
+<blockquote> <h3> <i> All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal. </i> </h3>
+<h3> - <b>Albert Einstein</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
