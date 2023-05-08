@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Ideas don't disappear. They change form, they merge with other ideas. </i> </h3>
-<h3> - <b>Bob Frankston</b> </h3> </blockquote>
+<blockquote> <h3> <i> Every time you improve process, work becomes harder. </i> </h3>
+<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
