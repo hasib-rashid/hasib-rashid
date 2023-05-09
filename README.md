@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind. </i> </h3>
-<h3> - <b>Ted Nelson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The entire history of software engineering is that of the rise in levels of abstraction. </i> </h3>
+<h3> - <b>Grady Booch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
