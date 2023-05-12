@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> We build our computer systems the way we build our cities: over time, without a plan, on top of ruins. </i> </h3>
-<h3> - <b>Ellen Ullman</b> </h3> </blockquote>
+<blockquote> <h3> <i> When in doubt, leave it out. </i> </h3>
+<h3> - <b>Joshua Bloch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
