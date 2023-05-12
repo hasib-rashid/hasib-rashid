@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> C is quirky, flawed, and an enormous success. </i> </h3>
-<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
+<blockquote> <h3> <i> It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures. </i> </h3>
+<h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
