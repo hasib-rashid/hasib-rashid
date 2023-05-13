@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> For most software, efficiency just does not matter. </i> </h3>
-<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
+<blockquote> <h3> <i> The button is working, only, it cannot be seen. </i> </h3>
+<h3> - <b>Anonymous</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
