@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland. </i> </h3>
-<h3> - <b>Ivan Sutherland</b> </h3> </blockquote>
+<blockquote> <h3> <i> A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. </i> </h3>
+<h3> - <b>Leslie Lamport</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
