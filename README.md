@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
