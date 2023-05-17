@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> An infinite number of monkeys typing into GNU Emacs would never make a good program. </i> </h3>
-<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
+<blockquote> <h3> <i> Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important. </i> </h3>
+<h3> - <b>John Carmack</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
