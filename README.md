@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. </i> </h3>
-<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
+<blockquote> <h3> <i> The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
