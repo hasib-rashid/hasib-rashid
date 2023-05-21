@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The most important single aspect of software development is to be clear about what you are trying to build. </i> </h3>
+<blockquote> <h3> <i> If you think it's simple, then you have misunderstood the problem. </i> </h3>
 <h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
