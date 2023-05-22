@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated. </i> </h3>
-<h3> - <b>Butler Lampson</b> </h3> </blockquote>
+<blockquote> <h3> <i> Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve. </i> </h3>
+<h3> - <b>René Descartes</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
