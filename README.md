@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love. </i> </h3>
-<h3> - <b>Pete Cordell</b> </h3> </blockquote>
+<blockquote> <h3> <i> You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. </i> </h3>
+<h3> - <b>John Romero</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
