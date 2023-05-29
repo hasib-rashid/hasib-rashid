@@ -79,9 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small. </i> </h3>
-<h3> - <b>Bob Frankston</b> </h3> </blockquote>
+<blockquote> <h3> <i> No matter how slow you are writing clean code, you will always be slower if you make a mess. </i> </h3>
+<h3> - <b>Robert C. Martin</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
