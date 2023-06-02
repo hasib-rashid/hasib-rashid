@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes. </i> </h3>
-<h3> - <b>Richard Hamming</b> </h3> </blockquote>
+<blockquote> <h3> <i> What is simplicity? Simplicity is the shortest path to a solution. </i> </h3>
+<h3> - <b>Ward Cunningham</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
