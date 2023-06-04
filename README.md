@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually. </i> </h3>
+<blockquote> <h3> <i> The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design. </i> </h3>
 <h3> - <b>Elon Musk</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
