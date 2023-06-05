@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If I had followed my heart instead of advice, dBASE would be much closer to perfection today. </i> </h3>
-<h3> - <b>Wayne Ratliff</b> </h3> </blockquote>
+<blockquote> <h3> <i> To iterate is human, to recurse divine. </i> </h3>
+<h3> - <b>L. Peter Deutsch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
