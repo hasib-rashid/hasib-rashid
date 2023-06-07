@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine. </i> </h3>
-<h3> - <b>Alan Turing</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programs must be written for people to read, and only incidentally for machines to execute. </i> </h3>
+<h3> - <b>Hal Abelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
