@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home. </i> </h3>
-<h3> - <b>Bill Gates</b> </h3> </blockquote>
+<blockquote> <h3> <i> Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person. </i> </h3>
+<h3> - <b>Michael Stal</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
