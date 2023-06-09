@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> No code is faster than no code. </i> </h3>
-<h3> - <b>Kevlin Henney</b> </h3> </blockquote>
+<blockquote> <h3> <i> Never trust a computer you can’t throw out a window. </i> </h3>
+<h3> - <b>Steve Wozniak</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
