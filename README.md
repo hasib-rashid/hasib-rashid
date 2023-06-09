@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The hardest part of design is keeping features out. </i> </h3>
-<h3> - <b>Don Norman</b> </h3> </blockquote>
+<blockquote> <h3> <i> The manager's function is not to make people work, but to make it possible for people to work. </i> </h3>
+<h3> - <b>Tom DeMarco</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
