@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I have no special talent. I am only passionately curious. </i> </h3>
-<h3> - <b>Albert Einstein</b> </h3> </blockquote>
+<blockquote> <h3> <i> An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming. </i> </h3>
+<h3> - <b>Harlan Mills</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
