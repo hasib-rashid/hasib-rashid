@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect. </i> </h3>
+<blockquote> <h3> <i> If you think your users are idiots, only idiots will use it. </i> </h3>
 <h3> - <b>Linus Torvalds</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
