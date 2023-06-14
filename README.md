@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%. </i> </h3>
-<h3> - <b>Tony Parisi (software developer)</b> </h3> </blockquote>
+<blockquote> <h3> <i> The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is. </i> </h3>
+<h3> - <b>Danny Hillis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
