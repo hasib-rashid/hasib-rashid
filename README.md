@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A computer shall not waste your time or require you to do more work than is strictly necessary. </i> </h3>
-<h3> - <b>Jef Raskin</b> </h3> </blockquote>
+<blockquote> <h3> <i> To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
