@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring. </i> </h3>
-<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
+<blockquote> <h3> <i> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. </i> </h3>
+<h3> - <b>Mario Fusco</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
