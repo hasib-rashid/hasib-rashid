@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Ideas don't disappear. They change form, they merge with other ideas. </i> </h3>
-<h3> - <b>Bob Frankston</b> </h3> </blockquote>
+<blockquote> <h3> <i> Beware of bugs in the above code; I have only proved it correct, not tried it. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
