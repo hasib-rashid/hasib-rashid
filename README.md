@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I care not only what the code says but how it looks. </i> </h3>
-<h3> - <b>Peter Roizen</b> </h3> </blockquote>
+<blockquote> <h3> <i> Good judgement comes from experience. Experience comes from bad judgement. </i> </h3>
+<h3> - <b>Jim Horning</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
