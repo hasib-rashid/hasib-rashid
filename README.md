@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I don't like using any tools or programs I didn't write myself or that I don't have some control over. </i> </h3>
-<h3> - <b>Jonathan Sachs</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language. </i> </h3>
+<h3> - <b>Richard Stallman</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
