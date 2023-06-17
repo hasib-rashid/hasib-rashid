@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law. </i> </h3>
-<h3> - <b>P. J. Plauger</b> </h3> </blockquote>
+<blockquote> <h3> <i> If debugging is the process of removing software bugs, then programming must be the process of putting them in. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
