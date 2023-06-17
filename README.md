@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The real problem with throwaway code comes when it isn't thrown away. </i> </h3>
-<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
+<blockquote> <h3> <i> No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful. </i> </h3>
+<h3> - <b>George Boole</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
