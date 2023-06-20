@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities. </i> </h3>
-<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
+<blockquote> <h3> <i> To iterate is human, to recurse divine. </i> </h3>
+<h3> - <b>L. Peter Deutsch</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
