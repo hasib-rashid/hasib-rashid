@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Software engineering is the part of computer science which is too difficult for the computer scientist. </i> </h3>
-<h3> - <b>Friedrich Bauer</b> </h3> </blockquote>
+<blockquote> <h3> <i> I think programming is very much a religious experience for a lot of people. </i> </h3>
+<h3> - <b>Gary Kildall</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
