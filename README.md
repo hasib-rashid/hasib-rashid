@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Life is too short to run proprietary software. </i> </h3>
-<h3> - <b>Bdale Garbee</b> </h3> </blockquote>
+<blockquote> <h3> <i> Premature abstraction is as bad as premature optimization. </i> </h3>
+<h3> - <b>Luciano Ramalho</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
