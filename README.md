@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. </i> </h3>
-<h3> - <b>Stewart Brand</b> </h3> </blockquote>
+<blockquote> <h3> <i> You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new. </i> </h3>
+<h3> - <b>Steve Jobs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
