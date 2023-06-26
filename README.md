@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast. </i> </h3>
-<h3> - <b>Joshua Bloch</b> </h3> </blockquote>
+<blockquote> <h3> <i> If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
