@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Within a computer, natural language is unnatural. </i> </h3>
+<blockquote> <h3> <i> A language that doesn't affect the way you think about programming, is not worth knowing. </i> </h3>
 <h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
