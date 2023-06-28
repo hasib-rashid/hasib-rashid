@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> In order to understand recursion, one must first understand recursion. </i> </h3>
+<h3> - <b>Anonymous</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
