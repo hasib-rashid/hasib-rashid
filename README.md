@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The most important part of writing a program is designing the data structures. </i> </h3>
-<h3> - <b>Dan Bricklin</b> </h3> </blockquote>
+<blockquote> <h3> <i> A language that doesn’t have everything is actually easier to program in than some that do. </i> </h3>
+<h3> - <b>Dennis Ritchie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
