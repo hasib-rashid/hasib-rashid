@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What is simplicity? Simplicity is the shortest path to a solution. </i> </h3>
-<h3> - <b>Ward Cunningham</b> </h3> </blockquote>
+<blockquote> <h3> <i> Humanity is acquiring all the right technology for all the wrong reasons. </i> </h3>
+<h3> - <b>Buckminster Fuller</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
