@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration. </i> </h3>
-<h3> - <b>Ray Ozzie</b> </h3> </blockquote>
+<blockquote> <h3> <i> Even in the games of children there are things to interest the greatest mathematician. </i> </h3>
+<h3> - <b>Gottfried Wilhelm Leibniz</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
