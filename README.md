@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Once the computers got control, we might never get it back. </i> </h3>
-<h3> - <b>Marvin Minsky</b> </h3> </blockquote>
+<blockquote> <h3> <i> Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs. </i> </h3>
+<h3> - <b>Marijn Haverbeke</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
