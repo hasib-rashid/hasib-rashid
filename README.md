@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application. </i> </h3>
-<h3> - <b>Ted Nelson</b> </h3> </blockquote>
+<blockquote> <h3> <i> For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail. </i> </h3>
+<h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
