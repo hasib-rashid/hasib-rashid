@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-) </i> </h3>
-<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
+<blockquote> <h3> <i> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves. </i> </h3>
+<h3> - <b>Ada Lovelace</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
