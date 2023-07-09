@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> There are few sources of energy so powerful as a procrastinating grad student. </i> </h3>
-<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programming is the ultimate field for someone who likes to tinker. </i> </h3>
+<h3> - <b>Ray Ozzie</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
