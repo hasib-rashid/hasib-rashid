@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity. </i> </h3>
-<h3> - <b>William Wulf</b> </h3> </blockquote>
+<blockquote> <h3> <i> I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript. </i> </h3>
+<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
