@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I don't comment on the code itself because I feel that properly written code is very much self-documented. </i> </h3>
-<h3> - <b>Gary Kildall</b> </h3> </blockquote>
+<blockquote> <h3> <i> Machines take me by surprise with great frequency. </i> </h3>
+<h3> - <b>Alan Turing</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
