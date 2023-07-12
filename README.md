@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Controlling complexity is the essence of computer programming. </i> </h3>
-<h3> - <b>Brian Kernighan</b> </h3> </blockquote>
+<blockquote> <h3> <i> Life is too short to run proprietary software. </i> </h3>
+<h3> - <b>Bdale Garbee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
