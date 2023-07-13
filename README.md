@@ -79,8 +79,9 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> We build our computer systems the way we build our cities: over time, without a plan, on top of ruins. </i> </h3>
-<h3> - <b>Ellen Ullman</b> </h3> </blockquote>
+<blockquote> <h3> <i> I think there is a world market for maybe five
+computers. </i> </h3>
+<h3> - <b>Thomas J. Watson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
