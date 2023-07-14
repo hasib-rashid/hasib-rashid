@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When we don’t understand a process, we fall into magical thinking about results. </i> </h3>
-<h3> - <b>Jef Raskin</b> </h3> </blockquote>
+<blockquote> <h3> <i> In programming the hard part isn’t solving problems, but deciding what problems to solve. </i> </h3>
+<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
