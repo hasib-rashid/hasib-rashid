@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Debugging time increases as a square of the program’s size. </i> </h3>
-<h3> - <b>Chris Wenham</b> </h3> </blockquote>
+<blockquote> <h3> <i> Every program has (at least) two purposes: the one for which it was written and another for which it wasn't. </i> </h3>
+<h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
