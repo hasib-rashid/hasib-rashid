@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A computer shall not waste your time or require you to do more work than is strictly necessary. </i> </h3>
-<h3> - <b>Jef Raskin</b> </h3> </blockquote>
+<blockquote> <h3> <i> Debugging time increases as a square of the program’s size. </i> </h3>
+<h3> - <b>Chris Wenham</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
