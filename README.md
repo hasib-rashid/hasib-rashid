@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h3>
-<h3> - <b>Jan L. A. van de Snepscheut</b> </h3> </blockquote>
+<blockquote> <h3> <i> Sometimes it’s just easier to throw a system away, and start over. </i> </h3>
+<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
