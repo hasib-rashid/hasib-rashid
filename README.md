@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> All repairs tend to destroy structure, to increase the entropy and disorder of a system. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> Within C++, there is a much smaller and cleaner language struggling to get out. </i> </h3>
+<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
