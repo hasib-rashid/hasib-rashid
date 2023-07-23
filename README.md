@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist. </i> </h3>
-<h3> - <b>Grady Booch</b> </h3> </blockquote>
+<blockquote> <h3> <i> As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout. </i> </h3>
+<h3> - <b>Gottfried Wilhelm Leibniz</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
