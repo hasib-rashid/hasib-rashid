@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes. </i> </h3>
-<h3> - <b>Bill Gates</b> </h3> </blockquote>
+<blockquote> <h3> <i> If I had followed my heart instead of advice, dBASE would be much closer to perfection today. </i> </h3>
+<h3> - <b>Wayne Ratliff</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
