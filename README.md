@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work. </i> </h3>
-<h3> - <b>Michael Hawley</b> </h3> </blockquote>
+<blockquote> <h3> <i> A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match. </i> </h3>
+<h3> - <b>David Parnas</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
