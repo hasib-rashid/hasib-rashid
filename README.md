@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout. </i> </h3>
+<blockquote> <h3> <i> Even in the games of children there are things to interest the greatest mathematician. </i> </h3>
 <h3> - <b>Gottfried Wilhelm Leibniz</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
