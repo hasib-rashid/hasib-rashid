@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought. </i> </h3>
-<h3> - <b>Danny Hillis</b> </h3> </blockquote>
+<blockquote> <h3> <i> In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it. </i> </h3>
+<h3> - <b>Richard Hamming</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
