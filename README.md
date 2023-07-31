@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web. </i> </h3>
+<blockquote> <h3> <i> I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit. </i> </h3>
 <h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
