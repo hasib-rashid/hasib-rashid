@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems. </i> </h3>
-<h3> - <b>Jamie Zawinski</b> </h3> </blockquote>
+<blockquote> <h3> <i> To be a hacker - when I use the term - is somebody who is creative and does wonderful things. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
