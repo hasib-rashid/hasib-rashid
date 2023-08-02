@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A few months writing code can save you a few hours in design. </i> </h3>
-<h3> - <b>Anonymous</b> </h3> </blockquote>
+<blockquote> <h3> <i> If we’d asked the customers what they wanted, they would have said “faster horses”. </i> </h3>
+<h3> - <b>Henry Ford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
