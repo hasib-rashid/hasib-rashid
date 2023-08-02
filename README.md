@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What I cannot build, I do not understand. </i> </h3>
-<h3> - <b>Richard Feynman</b> </h3> </blockquote>
+<blockquote> <h3> <i> The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. </i> </h3>
+<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
