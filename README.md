@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A good programmer is someone who looks both ways before crossing a one-way street. </i> </h3>
-<h3> - <b>Doug Linder</b> </h3> </blockquote>
+<blockquote> <h3> <i> Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware. </i> </h3>
+<h3> - <b>Martin Fowler</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
