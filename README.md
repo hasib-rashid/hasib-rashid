@@ -79,8 +79,9 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Good judgement comes from experience. Experience comes from bad judgement. </i> </h3>
-<h3> - <b>Jim Horning</b> </h3> </blockquote>
+<blockquote> <h3> <i> I think there is a world market for maybe five
+computers. </i> </h3>
+<h3> - <b>Thomas J. Watson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
