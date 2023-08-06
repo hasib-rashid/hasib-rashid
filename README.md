@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. </i> </h3>
-<h3> - <b>Alan Kay</b> </h3> </blockquote>
+<blockquote> <h3> <i> The computing scientist’s main challenge is not to get confused by the complexities of his own making. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
