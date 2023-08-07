@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Good people with a good process will outperform good people with no process every time. </i> </h3>
-<h3> - <b>Grady Booch</b> </h3> </blockquote>
+<blockquote> <h3> <i> A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. </i> </h3>
+<h3> - <b>Leslie Lamport</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
