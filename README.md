@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work. </i> </h3>
-<h3> - <b>Michael Hawley</b> </h3> </blockquote>
+<blockquote> <h3> <i> Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes. </i> </h3>
+<h3> - <b>Harlan Mills</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
