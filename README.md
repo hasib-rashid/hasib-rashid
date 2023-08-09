@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Never memorize something that you can look up. </i> </h3>
-<h3> - <b>Albert Einstein</b> </h3> </blockquote>
+<blockquote> <h3> <i> We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time. </i> </h3>
+<h3> - <b>Charles Babbage</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
