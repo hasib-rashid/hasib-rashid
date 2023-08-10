@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important. </i> </h3>
-<h3> - <b>Ward Cunningham</b> </h3> </blockquote>
+<blockquote> <h3> <i> One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions. </i> </h3>
+<h3> - <b>Danny Hillis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
