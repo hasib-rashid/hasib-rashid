@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. </i> </h3>
-<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
+<blockquote> <h3> <i> A good programmer is someone who looks both ways before crossing a one-way street. </i> </h3>
+<h3> - <b>Doug Linder</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
