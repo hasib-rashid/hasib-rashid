@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Fancy algorithms are slow when n is small, and n is usually small. </i> </h3>
-<h3> - <b>Rob Pike</b> </h3> </blockquote>
+<blockquote> <h3> <i> One accurate measurement is worth more than a thousand expert opinions. </i> </h3>
+<h3> - <b>Grace Hopper</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
