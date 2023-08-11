@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date. </i> </h3>
-<h3> - <b>James Gleick</b> </h3> </blockquote>
+<blockquote> <h3> <i> Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before. </i> </h3>
+<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
