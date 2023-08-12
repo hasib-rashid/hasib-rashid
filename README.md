@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal. </i> </h3>
-<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
+<blockquote> <h3> <i> The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person. </i> </h3>
+<h3> - <b>Charles Simonyi</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
