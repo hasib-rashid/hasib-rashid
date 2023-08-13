@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. </i> </h3>
-<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
+<blockquote> <h3> <i> When I invented the web, I didn't have to ask anyone's permission. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
