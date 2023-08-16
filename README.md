@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> I think the best way to supervise is by personal example and by frequent code reviews. </i> </h3>
+<h3> - <b>Charles Simonyi</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
