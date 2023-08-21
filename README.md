@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> To be a hacker - when I use the term - is somebody who is creative and does wonderful things. </i> </h3>
-<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
+<blockquote> <h3> <i> People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually. </i> </h3>
+<h3> - <b>Elon Musk</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
