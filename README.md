@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important. </i> </h3>
-<h3> - <b>Ward Cunningham</b> </h3> </blockquote>
+<blockquote> <h3> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h3>
+<h3> - <b>Jan L. A. van de Snepscheut</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
