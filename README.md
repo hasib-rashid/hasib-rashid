@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Even in the games of children there are things to interest the greatest mathematician. </i> </h3>
-<h3> - <b>Gottfried Wilhelm Leibniz</b> </h3> </blockquote>
+<blockquote> <h3> <i> Object-oriented design is the roman numerals of computing. </i> </h3>
+<h3> - <b>Rob Pike</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
