@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction. </i> </h3>
-<h3> - <b>Terry Winograd</b> </h3> </blockquote>
+<blockquote> <h3> <i> I think one of the most valuable rules is avoid duplication. </i> </h3>
+<h3> - <b>Martin Fowler</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
