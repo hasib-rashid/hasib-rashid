@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I don't comment on the code itself because I feel that properly written code is very much self-documented. </i> </h3>
-<h3> - <b>Gary Kildall</b> </h3> </blockquote>
+<blockquote> <h3> <i> Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you. </i> </h3>
+<h3> - <b>Richard P. Gabriel</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
