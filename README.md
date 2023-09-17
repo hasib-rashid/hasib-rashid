@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Everybody should learn to program a computer, because it teaches you how to think. </i> </h3>
-<h3> - <b>Steve Jobs</b> </h3> </blockquote>
+<blockquote> <h3> <i> The difference between theory and practice is that in theory, there is no difference between theory and practice. </i> </h3>
+<h3> - <b>Richard Moore (engineer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
