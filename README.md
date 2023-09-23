@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more. </i> </h3>
-<h3> - <b>Jim Horning</b> </h3> </blockquote>
+<blockquote> <h3> <i> The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing. </i> </h3>
+<h3> - <b>Manuel Blum</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
