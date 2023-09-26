@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A programming language is low level when its programs require attention to the irrelevant. </i> </h3>
-<h3> - <b>Alan Perlis</b> </h3> </blockquote>
+<blockquote> <h3> <i> A computer would deserve to be called intelligent if it could deceive a human into believing that it was human. </i> </h3>
+<h3> - <b>Alan Turing</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
