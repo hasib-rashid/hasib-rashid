@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A lot of companies hire people to tell them what to do. We hire people to tell us what to do. </i> </h3>
-<h3> - <b>Steve Jobs</b> </h3> </blockquote>
+<blockquote> <h3> <i> On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question. </i> </h3>
+<h3> - <b>Charles Babbage</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
