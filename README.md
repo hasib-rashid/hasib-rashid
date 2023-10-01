@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before. </i> </h3>
-<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
+<blockquote> <h3> <i> An evolving system increases its complexity unless work is done to reduce it. </i> </h3>
+<h3> - <b>Manny Lehman (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
