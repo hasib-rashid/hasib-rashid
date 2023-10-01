@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging. </i> </h3>
-<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
+<blockquote> <h3> <i> Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
