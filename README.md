@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. </i> </h3>
-<h3> - <b>Alan Kay</b> </h3> </blockquote>
+<blockquote> <h3> <i> In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line. </i> </h3>
+<h3> - <b>Ada Lovelace</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
