@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down. </i> </h3>
-<h3> - <b>Tom DeMarco</b> </h3> </blockquote>
+<blockquote> <h3> <i> When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous. </i> </h3>
+<h3> - <b>Kent Beck</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
