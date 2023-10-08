@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> AI is a fundamental risk to the existence of human civilization. </i> </h3>
-<h3> - <b>Elon Musk</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you learn how to solve problems, you can go through life and do pretty well. </i> </h3>
+<h3> - <b>Gary Kildall</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
