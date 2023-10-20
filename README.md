@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Much of the essence of building a program is in fact the debugging of the specification. </i> </h3>
+<blockquote> <h3> <i> All repairs tend to destroy structure, to increase the entropy and disorder of a system. </i> </h3>
 <h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
