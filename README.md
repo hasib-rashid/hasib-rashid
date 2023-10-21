@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Any sufficiently advanced technology is indistinguishable from magic. </i> </h3>
-<h3> - <b>Arthur C. Clarke</b> </h3> </blockquote>
+<blockquote> <h3> <i> The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing. </i> </h3>
+<h3> - <b>Manuel Blum</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
