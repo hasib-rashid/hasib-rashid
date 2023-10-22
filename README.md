@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds. </i> </h3>
-<h3> - <b>Ted Nelson</b> </h3> </blockquote>
+<blockquote> <h3> <i> Anybody who comes to you and says he has a perfect language is either naïve or a salesman. </i> </h3>
+<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
