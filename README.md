@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it. </i> </h3>
-<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
+<blockquote> <h3> <i> I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length. </i> </h3>
+<h3> - <b>Carl Friedrich Gauss</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
