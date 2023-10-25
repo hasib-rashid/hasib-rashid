@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love. </i> </h3>
-<h3> - <b>Pete Cordell</b> </h3> </blockquote>
+<blockquote> <h3> <i> I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard. </i> </h3>
+<h3> - <b>Steve Jobs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
