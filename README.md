@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A programming systems product takes about nine times as much effort as the component programs written separately for private use. </i> </h3>
-<h3> - <b>Fred Brooks</b> </h3> </blockquote>
+<blockquote> <h3> <i> Artificial intelligence is the science of making machines do things that would require intelligence if done by men. </i> </h3>
+<h3> - <b>Marvin Minsky</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
