@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Science is what we understand well enough to explain to a computer. Art is everything else we do. </i> </h3>
-<h3> - <b>Donald Knuth</b> </h3> </blockquote>
+<blockquote> <h3> <i> A programming systems product takes about nine times as much effort as the component programs written separately for private use. </i> </h3>
+<h3> - <b>Fred Brooks</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
