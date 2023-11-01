@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful. </i> </h3>
-<h3> - <b>George Boole</b> </h3> </blockquote>
+<blockquote> <h3> <i> The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
