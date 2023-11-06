@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong. </i> </h3>
-<h3> - <b>Arthur C. Clarke</b> </h3> </blockquote>
+<blockquote> <h3> <i> The hardest part of design is keeping features out. </i> </h3>
+<h3> - <b>Don Norman</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
