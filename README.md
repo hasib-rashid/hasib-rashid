@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The top 5% of programmers probably write 99% of the good software. </i> </h3>
-<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
+<blockquote> <h3> <i> There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence. </i> </h3>
+<h3> - <b>Jeremy S. Anderson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
