@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The hardest part of design is keeping features out. </i> </h3>
-<h3> - <b>Don Norman</b> </h3> </blockquote>
+<blockquote> <h3> <i> The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform. </i> </h3>
+<h3> - <b>Hal Abelson</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
