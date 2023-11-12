@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts. </i> </h3>
-<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
+<blockquote> <h3> <i> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. </i> </h3>
+<h3> - <b>Martin Fowler</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
