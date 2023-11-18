@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer. </i> </h3>
-<h3> - <b>Jamie Zawinski</b> </h3> </blockquote>
+<blockquote> <h3> <i> W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent. </i> </h3>
+<h3> - <b>Martin Fowler</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
