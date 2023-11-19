@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones. </i> </h3>
-<h3> - <b>Terry Winograd</b> </h3> </blockquote>
+<blockquote> <h3> <i> Sometimes it’s just easier to throw a system away, and start over. </i> </h3>
+<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
