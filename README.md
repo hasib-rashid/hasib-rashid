@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A programming language is low level when its programs require attention to the irrelevant. </i> </h3>
-<h3> - <b>Alan Perlis</b> </h3> </blockquote>
+<blockquote> <h3> <i> The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down. </i> </h3>
+<h3> - <b>Tom DeMarco</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
