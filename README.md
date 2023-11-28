@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person. </i> </h3>
-<h3> - <b>Michael Stal</b> </h3> </blockquote>
+<blockquote> <h3> <i> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. </i> </h3>
+<h3> - <b>Rick Osborne</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
