@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> No matter how slow you are writing clean code, you will always be slower if you make a mess. </i> </h3>
-<h3> - <b>Robert C. Martin</b> </h3> </blockquote>
+<blockquote> <h3> <i> Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers. </i> </h3>
+<h3> - <b>Gottfried Wilhelm Leibniz</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
