@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love. </i> </h3>
-<h3> - <b>Pete Cordell</b> </h3> </blockquote>
+<blockquote> <h3> <i> Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
