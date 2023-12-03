@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. </i> </h3>
-<h3> - <b>John Romero</b> </h3> </blockquote>
+<blockquote> <h3> <i> Never trust a computer you can’t throw out a window. </i> </h3>
+<h3> - <b>Steve Wozniak</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
