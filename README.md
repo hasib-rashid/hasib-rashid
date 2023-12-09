@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A computer shall not waste your time or require you to do more work than is strictly necessary. </i> </h3>
-<h3> - <b>Jef Raskin</b> </h3> </blockquote>
+<blockquote> <h3> <i> The purpose of software engineering is to control complexity, not to create it. </i> </h3>
+<h3> - <b>Pamela Zave</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
