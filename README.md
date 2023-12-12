@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Typing is no substitute for thinking. </i> </h3>
-<h3> - <b>Richard Hamming</b> </h3> </blockquote>
+<blockquote> <h3> <i> I have no special talent. I am only passionately curious. </i> </h3>
+<h3> - <b>Albert Einstein</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
