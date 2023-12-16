@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Anybody who comes to you and says he has a perfect language is either naïve or a salesman. </i> </h3>
+<blockquote> <h3> <i> There are only two kinds of languages: the ones people complain about and the ones nobody uses. </i> </h3>
 <h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
