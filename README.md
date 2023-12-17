@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The cost to repair an error goes up dramatically as project moves towards completion and beyond. </i> </h3>
+<blockquote> <h3> <i> The key to keeping software costs down is to write code that is easily modified. </i> </h3>
 <h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
