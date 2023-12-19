@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous. </i> </h3>
-<h3> - <b>Kent Beck</b> </h3> </blockquote>
+<blockquote> <h3> <i> Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before. </i> </h3>
+<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
