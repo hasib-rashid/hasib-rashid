@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong. </i> </h3>
-<h3> - <b>Buckminster Fuller</b> </h3> </blockquote>
+<blockquote> <h3> <i> Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion. </i> </h3>
+<h3> - <b>Douglas Crockford</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
