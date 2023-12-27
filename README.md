@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The difference between theory and practice is that in theory, there is no difference between theory and practice. </i> </h3>
-<h3> - <b>Richard Moore (engineer)</b> </h3> </blockquote>
+<blockquote> <h3> <i> When I invented the web, I didn't have to ask anyone's permission. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
