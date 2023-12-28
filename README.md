@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length. </i> </h3>
-<h3> - <b>Carl Friedrich Gauss</b> </h3> </blockquote>
+<blockquote> <h3> <i> Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important. </i> </h3>
+<h3> - <b>Ward Cunningham</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
