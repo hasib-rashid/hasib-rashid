@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed. </i> </h3>
-<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
+<blockquote> <h3> <i> No matter how slow you are writing clean code, you will always be slower if you make a mess. </i> </h3>
+<h3> - <b>Robert C. Martin</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
