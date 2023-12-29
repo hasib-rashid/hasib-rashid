@@ -79,9 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I think there is a world market for maybe five
-computers. </i> </h3>
-<h3> - <b>Thomas J. Watson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. </i> </h3>
+<h3> - <b>Edsger W. Dijkstra</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
