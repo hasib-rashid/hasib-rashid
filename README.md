@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible. </i> </h3>
-<h3> - <b>Danny Hillis</b> </h3> </blockquote>
+<blockquote> <h3> <i> Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you. </i> </h3>
+<h3> - <b>Richard P. Gabriel</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
