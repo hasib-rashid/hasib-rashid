@@ -79,7 +79,7 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them. </i> </h3>
+<blockquote> <h3> <i> Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home. </i> </h3>
 <h3> - <b>Bill Gates</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
