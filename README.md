@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Software engineering is the part of computer science which is too difficult for the computer scientist. </i> </h3>
-<h3> - <b>Friedrich Bauer</b> </h3> </blockquote>
+<blockquote> <h3> <i> Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it. </i> </h3>
+<h3> - <b>Anders Hejlsberg</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
