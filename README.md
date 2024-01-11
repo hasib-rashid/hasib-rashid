@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Software engineering is the part of computer science which is too difficult for the computer scientist. </i> </h3>
-<h3> - <b>Friedrich Bauer</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you have a procedure with 10 parameters, you probably missed some. </i> </h3>
+<h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
