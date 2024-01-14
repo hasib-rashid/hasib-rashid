@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function. </i> </h3>
-<h3> - <b>John Carmack</b> </h3> </blockquote>
+<blockquote> <h3> <i> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. </i> </h3>
+<h3> - <b>Martin Fowler</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
