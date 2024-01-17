@@ -79,9 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I think there is a world market for maybe five
-computers. </i> </h3>
-<h3> - <b>Thomas J. Watson</b> </h3> </blockquote>
+<blockquote> <h3> <i> SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing. </i> </h3>
+<h3> - <b>Philip Greenspun</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
