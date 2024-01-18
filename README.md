@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> In handling resources, strive to avoid disaster rather than to attain an optimum. </i> </h3>
-<h3> - <b>Butler Lampson</b> </h3> </blockquote>
+<blockquote> <h3> <i> All too many of our software systems are, architecturally, little more than shantytowns. </i> </h3>
+<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
