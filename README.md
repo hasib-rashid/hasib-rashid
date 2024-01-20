@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones. </i> </h3>
-<h3> - <b>Terry Winograd</b> </h3> </blockquote>
+<blockquote> <h3> <i> The top 5% of programmers probably write 99% of the good software. </i> </h3>
+<h3> - <b>Paul Graham (programmer)</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
