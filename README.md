@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it. </i> </h3>
-<h3> - <b>Vannevar Bush</b> </h3> </blockquote>
+<blockquote> <h3> <i> You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new. </i> </h3>
+<h3> - <b>Steve Jobs</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
