@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast. </i> </h3>
-<h3> - <b>Joshua Bloch</b> </h3> </blockquote>
+<blockquote> <h3> <i> I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind. </i> </h3>
+<h3> - <b>Alan Kay</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
