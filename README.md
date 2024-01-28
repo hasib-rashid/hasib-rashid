@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better. </i> </h3>
-<h3> - <b>Donald Knuth</b> </h3> </blockquote>
+<blockquote> <h3> <i> Machines take me by surprise with great frequency. </i> </h3>
+<h3> - <b>Alan Turing</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
