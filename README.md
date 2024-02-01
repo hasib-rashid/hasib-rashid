@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success. </i> </h3>
-<h3> - <b>John Warnock</b> </h3> </blockquote>
+<blockquote> <h3> <i> Software gets slower faster than hardware gets faster. </i> </h3>
+<h3> - <b>Niklaus Wirth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
