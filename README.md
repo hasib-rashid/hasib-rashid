@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. </i> </h3>
-<h3> - <b>Mario Fusco</b> </h3> </blockquote>
+<blockquote> <h3> <i> I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun. </i> </h3>
+<h3> - <b>Donald Knuth</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
