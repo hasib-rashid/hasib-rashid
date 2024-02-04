@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is. </i> </h3>
-<h3> - <b>Danny Hillis</b> </h3> </blockquote>
+<blockquote> <h3> <i> When I invented the web, I didn't have to ask anyone's permission. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
