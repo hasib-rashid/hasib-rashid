@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it. </i> </h3>
-<h3> - <b>Vannevar Bush</b> </h3> </blockquote>
+<blockquote> <h3> <i> I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it. </i> </h3>
+<h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
