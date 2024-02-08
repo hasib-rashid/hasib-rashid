@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three. </i> </h3>
-<h3> - <b>Charles Simonyi</b> </h3> </blockquote>
+<blockquote> <h3> <i> Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration. </i> </h3>
+<h3> - <b>Stan Kelly-Bootle</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
