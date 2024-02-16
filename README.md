@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong. </i> </h3>
-<h3> - <b>Arthur C. Clarke</b> </h3> </blockquote>
+<blockquote> <h3> <i> What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring. </i> </h3>
+<h3> - <b>Tim Berners-Lee</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
