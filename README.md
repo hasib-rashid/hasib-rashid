@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match. </i> </h3>
-<h3> - <b>David Parnas</b> </h3> </blockquote>
+<blockquote> <h3> <i> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. </i> </h3>
+<h3> - <b>Linus Torvalds</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
