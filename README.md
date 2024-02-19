@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware. </i> </h3>
-<h3> - <b>Martin Fowler</b> </h3> </blockquote>
+<blockquote> <h3> <i> No matter how slow you are writing clean code, you will always be slower if you make a mess. </i> </h3>
+<h3> - <b>Robert C. Martin</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
