@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds. </i> </h3>
-<h3> - <b>Ted Nelson</b> </h3> </blockquote>
+<blockquote> <h3> <i> The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs). </i> </h3>
+<h3> - <b>Daniel T. Barry</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
