@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care. </i> </h3>
-<h3> - <b>Charles Simonyi</b> </h3> </blockquote>
+<blockquote> <h3> <i> Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple. </i> </h3>
+<h3> - <b>Danny Hillis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
