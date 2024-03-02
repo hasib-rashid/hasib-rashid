@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization. </i> </h3>
-<h3> - <b>Gerald Weinberg</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime. </i> </h3>
+<h3> - <b>David Leinweber</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
