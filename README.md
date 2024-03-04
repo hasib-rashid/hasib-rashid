@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Sometimes it’s just easier to throw a system away, and start over. </i> </h3>
-<h3> - <b>Joseph Yoder (computer scientist)</b> </h3> </blockquote>
+<blockquote> <h3> <i> I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it. </i> </h3>
+<h3> - <b>Alan Perlis</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
