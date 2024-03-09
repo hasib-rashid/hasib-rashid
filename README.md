@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it. </i> </h3>
-<h3> - <b>Anders Hejlsberg</b> </h3> </blockquote>
+<blockquote> <h3> <i> The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. </i> </h3>
+<h3> - <b>Randall E. Stross</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
