@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind. </i> </h3>
-<h3> - <b>Alan Kay</b> </h3> </blockquote>
+<blockquote> <h3> <i> If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization. </i> </h3>
+<h3> - <b>Gerald Weinberg</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
