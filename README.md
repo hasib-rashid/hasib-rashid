@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> The most important single aspect of software development is to be clear about what you are trying to build. </i> </h3>
-<h3> - <b>Bjarne Stroustrup</b> </h3> </blockquote>
+<blockquote> <h3> <i> The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other. </i> </h3>
+<h3> - <b>John Carmack</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
