@@ -79,8 +79,9 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Debugging is like being the detective in a crime movie where you are also the murderer. </i> </h3>
-<h3> - <b>Filipe Fortes</b> </h3> </blockquote>
+<blockquote> <h3> <i> If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small. </i> </h3>
+<h3> - <b>Bob Frankston</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
