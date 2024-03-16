@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Every good work of software starts by scratching a developer’s personal itch. </i> </h3>
-<h3> - <b>Eric S. Raymond</b> </h3> </blockquote>
+<blockquote> <h3> <i> There's only one trick in software, and that is using a piece of software that's already been written. </i> </h3>
+<h3> - <b>Bill Gates</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
