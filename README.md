@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> First, solve the problem. Then, write the code. </i> </h3>
-<h3> - <b>John Johnson</b> </h3> </blockquote>
+<blockquote> <h3> <i> A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy. </i> </h3>
+<h3> - <b>Bill Gates</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
