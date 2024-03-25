@@ -79,8 +79,8 @@
 
 
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart. </i> </h3>
-<h3> - <b>John Warnock</b> </h3> </blockquote>
+<blockquote> <h3> <i> The hardest part of design is keeping features out. </i> </h3>
+<h3> - <b>Don Norman</b> </h3> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
 
