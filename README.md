@@ -38,20 +38,6 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<h2 align="center">My Contributions</h2>
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=hasib-rashid&show_icons=true&theme=tokyonight"> </td>
-       <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib-rashid&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
-     </tr>
-   </table>
-</p>
-
 <h2 align="center">Connect with me in</h2>
 <div align="center">
 <a href="https://github.com/hasib-rashid">
@@ -73,44 +59,4 @@
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=hasib-rashid&theme=github"></img>
 
-<br>
-<br>
-<h2>Random Programming Quote</h2>
-
-
-<!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h3> <i> What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds. </i> </h3>
-<h3> - <b>Steve Jobs</b> </h3> </blockquote>
-<br>
-<!--PROGRAMMING-QUOTE-BOT:end-->
-
 ### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SpiderMath/30Days30Projects/issues/1) in [SpiderMath/30Days30Projects](https://github.com/SpiderMath/30Days30Projects)
-2. ❗️ Opened issue [#1](https://github.com/SpiderMath/30Days30Projects/issues/1) in [SpiderMath/30Days30Projects](https://github.com/SpiderMath/30Days30Projects)
-3. ❗️ Opened issue [#1](https://github.com/Programming-with-Jay/Instagram-clone/issues/1) in [Programming-with-Jay/Instagram-clone](https://github.com/Programming-with-Jay/Instagram-clone)
-4. ❌ Closed PR [#1](https://github.com/hasib-rashid/falconCache/pull/1) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-5. ❌ Closed PR [#4](https://github.com/hasib-rashid/falconCache/pull/4) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-6. ❌ Closed PR [#6](https://github.com/hasib-rashid/falconCache/pull/6) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-7. ❌ Closed PR [#5](https://github.com/hasib-rashid/falconCache/pull/5) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-8. ❌ Closed PR [#2](https://github.com/hasib-rashid/falconCache/pull/2) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-9. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-10. ❌ Closed PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-<!--END_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Programming-with-Jay/Instagram-clone/issues/1) in [Programming-with-Jay/Instagram-clone](https://github.com/Programming-with-Jay/Instagram-clone)
-2. ❌ Closed PR [#1](https://github.com/hasib-rashid/falconCache/pull/1) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-3. ❌ Closed PR [#4](https://github.com/hasib-rashid/falconCache/pull/4) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-4. ❌ Closed PR [#6](https://github.com/hasib-rashid/falconCache/pull/6) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-5. ❌ Closed PR [#5](https://github.com/hasib-rashid/falconCache/pull/5) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-6. ❌ Closed PR [#2](https://github.com/hasib-rashid/falconCache/pull/2) in [hasib-rashid/falconCache](https://github.com/hasib-rashid/falconCache)
-7. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-8. ❌ Closed PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-9. ❗️ Closed issue [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-10. 🗣 Commented on [#46](https://github.com/WekyDev/weky-npm/issues/46) in [WekyDev/weky-npm](https://github.com/WekyDev/weky-npm)
-<!-- END_SECTION:activity -->
-
-### 📚 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
