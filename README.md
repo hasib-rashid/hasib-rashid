@@ -34,24 +34,25 @@
 </div>
 <h3>Learning</h3>
 <div>
-<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&amp;logo=arduino" alt="Arduino">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&amp;logo=python" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <h2 align="center">Connect with me in</h2>
 <div align="center">
 <a href="https://github.com/hasib-rashid">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat-square&amp;logo=github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://hasibrashid.tk">
-  <img src="https://img.shields.io/badge/-Website-black?style=flat-square&amp;logo=circle" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://hasibrashid.vercel.app">
+  <img src="https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=circle&logoColor=white" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a><a href="https://dev.to/hasibrashid">
-  <img src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&amp;logo=dev.to" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a><a href="https://open.spotify.com/user/2gm5rrycgg6pu4rdxq3tcc9lx">
-  <img src="https://img.shields.io/badge/-Spotify-black?style=flat-square&amp;logo=spotify" alt="Spotify">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">&nbsp;&nbsp;&nbsp;&nbsp;
 </a><a href="https://github.com/hasib-rashid">
-  <img src="https://img.shields.io/badge/-Stack Overflow-black?style=flat-square&amp;logo=stack-overflow" alt="Stack Overflow">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 </div>
