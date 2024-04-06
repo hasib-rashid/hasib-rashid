@@ -43,16 +43,16 @@
 
 <h2 align="center">Connect with me in</h2>
 <div align="center">
-<a href="https://github.com/hasib-rashid">
+<a href="https://github.com/hasib-rashid" target="_blank">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://hasibrashid.vercel.app">
+<a href="https://hasibrashid.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=circle&logoColor=white" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
-</a><a href="https://dev.to/hasibrashid">
+</a><a href="https://dev.to/hasibrashid" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
-</a><a href="https://open.spotify.com/user/2gm5rrycgg6pu4rdxq3tcc9lx">
+</a><a href="https://open.spotify.com/user/2gm5rrycgg6pu4rdxq3tcc9lx" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">&nbsp;&nbsp;&nbsp;&nbsp;
-</a><a href="https://github.com/hasib-rashid">
+</a><a href="https://github.com/hasib-rashid" target="_blank">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 </div>
