@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="(https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h3>Database</h3>
 <div>
