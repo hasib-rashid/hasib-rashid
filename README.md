@@ -17,7 +17,7 @@
 <br>
 <br>
 <div>
-<img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&amp;logo=React" alt="ReactJS">&nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-SASS-black?style=flat-square&amp;logo=SASS" alt="SASS">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-DiscordJS-black?style=flat-square&amp;logo=Discord" alt="Discord">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Typescript-black?style=flat-square&amp;logo=Typescript" alt="Typescript">&nbsp;&nbsp;&nbsp;&nbsp;
